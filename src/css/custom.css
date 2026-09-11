@@ -1,0 +1,79 @@
+/**
+ * AURA のブランド色。
+ *   墨 #22272B … クローム（上部の帯・フッタ）
+ *   朱 #C0392B … 差し色（リンク・見出しのアクセント）
+ * アプリ側（案A「墨と朱」）と同じ考え方。明暗どちらでも読めるよう、暗い面では朱を明るめにする。
+ */
+
+:root {
+  --aura-sumi: #22272b;
+  --aura-sumi-light: #2e353a;
+  --aura-shu: #c0392b;
+
+  --ifm-color-primary: #c0392b;
+  --ifm-color-primary-dark: #ad3327;
+  --ifm-color-primary-darker: #a43025;
+  --ifm-color-primary-darkest: #87281e;
+  --ifm-color-primary-light: #cd4032;
+  --ifm-color-primary-lighter: #d0473a;
+  --ifm-color-primary-lightest: #d8655a;
+
+  --ifm-font-family-base: -apple-system, BlinkMacSystemFont, 'Helvetica Neue',
+    'Hiragino Sans', 'Noto Sans JP', 'Yu Gothic UI', Meiryo, sans-serif;
+  --ifm-code-font-size: 92%;
+  --ifm-line-height-base: 1.8;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.08);
+}
+
+[data-theme='dark'] {
+  /* 暗い面では朱をそのまま置くと沈むので、明度を上げたものを使う */
+  --ifm-color-primary: #e8705f;
+  --ifm-color-primary-dark: #e35744;
+  --ifm-color-primary-darker: #e04b37;
+  --ifm-color-primary-darkest: #c23a28;
+  --ifm-color-primary-light: #ed897a;
+  --ifm-color-primary-lighter: #f09588;
+  --ifm-color-primary-lightest: #f6bcb3;
+
+  --ifm-background-color: #1a1e21;
+  --ifm-background-surface-color: #22272b;
+  --docusaurus-highlighted-code-line-bg: rgba(255, 255, 255, 0.1);
+}
+
+/* 上部の帯は明暗どちらでも墨。アプリのトップバーと揃える */
+.navbar {
+  background-color: var(--aura-sumi);
+  --ifm-navbar-link-color: #e9ecee;
+  --ifm-navbar-link-hover-color: #ffffff;
+}
+
+.navbar__title,
+.navbar__brand {
+  color: #ffffff;
+  letter-spacing: 0.08em;
+}
+
+.footer--dark {
+  --ifm-footer-background-color: var(--aura-sumi);
+}
+
+/* スマホで読むときに窮屈にならないよう、本文の余白と行間を少し広く取る */
+.markdown h1 {
+  letter-spacing: 0.04em;
+}
+
+.markdown table {
+  display: table;
+  width: 100%;
+}
+
+@media (max-width: 768px) {
+  .markdown {
+    font-size: 15px;
+  }
+
+  .markdown table {
+    display: block;
+    overflow-x: auto;
+  }
+}
