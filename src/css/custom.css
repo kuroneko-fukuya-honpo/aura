@@ -25,6 +25,18 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.08);
 }
 
+/*
+ * 変更履歴の箇条書き（らじぽけの docs と同じ `.paste`）。
+ * 行頭の「・」は Markdown のリスト記号ではないので、行を改行でつないだだけでは 1 つの段落に潰れる。
+ * <br> を並べるより pre-wrap のほうが、選択してコピーしたときに改行がそのまま入る
+ * （Play Console のリリースノートに貼る用途）。フォントは本文のまま（pre ではなく div）。
+ */
+.paste {
+  white-space: pre-wrap; /* 改行はそのまま、長い行だけ折り返す */
+  word-break: break-word; /* 狭い画面で横スクロールにしない */
+  margin: 0 0 20px;
+}
+
 [data-theme='dark'] {
   /* 暗い面では朱をそのまま置くと沈むので、明度を上げたものを使う */
   --ifm-color-primary: #e8705f;
