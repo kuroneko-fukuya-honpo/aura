@@ -63,6 +63,7 @@ const config = {
         items: [
           { to: '/guide/subscribe', label: '使い方', position: 'left' },
           { to: '/g2', label: 'Even G2 連携', position: 'left' },
+          { to: '/plus', label: 'AURA Plus', position: 'left' },
           { to: '/story', label: '開発の記録', position: 'left' },
           { to: '/changelog', label: '更新履歴', position: 'right' },
           { to: '/privacy', label: 'プライバシー', position: 'right' },
@@ -77,6 +78,7 @@ const config = {
               { label: 'AURA とは', to: '/' },
               { label: '使い方', to: '/guide/subscribe' },
               { label: 'Even G2 連携', to: '/g2' },
+              { label: 'AURA Plus', to: '/plus' },
             ],
           },
           {

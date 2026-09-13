@@ -12,6 +12,7 @@
 const sidebars = {
   main: [
     'index',
+    'plus',
     {
       type: 'category',
       label: '使い方',
