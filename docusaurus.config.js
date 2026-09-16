@@ -89,6 +89,14 @@ const config = {
               { label: '問い合わせ', to: '/contact' },
             ],
           },
+          {
+            title: 'SNS',
+            items: [
+              { label: 'YouTube', href: 'https://www.youtube.com/@kuronekofukuyahonpo' },
+              { label: 'X（旧 Twitter）', href: 'https://x.com/kuroneko_fukuya' },
+              { label: 'note', href: 'https://note.com/kuroneko_fukuya' },
+            ],
+          },
         ],
         copyright: `© ${new Date().getFullYear()} 黒猫福家本舗`,
       },

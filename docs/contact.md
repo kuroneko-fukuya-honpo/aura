@@ -10,7 +10,15 @@ sidebar_position: 90
 AURA について、不具合の報告・要望・その他のご連絡はこちらへお願いします。
 
 - **開発者**: 黒猫福家本舗
-- **メール**: <!-- ここに公開用の連絡先を入れてください -->
+- **メール**: [kuroneko.fukuya@gmail.com](mailto:kuroneko.fukuya@gmail.com)
+
+## SNS
+
+最新情報やお知らせは、こちらでもお伝えします。
+
+- **YouTube**: [@kuronekofukuyahonpo](https://www.youtube.com/@kuronekofukuyahonpo)
+- **X（旧 Twitter）**: [@kuroneko_fukuya](https://x.com/kuroneko_fukuya)
+- **note**: [kuroneko_fukuya](https://note.com/kuroneko_fukuya)
 
 :::note
 Google Play に公開するときは、ストアの掲載情報にもここと同じ連絡先を書きます。
