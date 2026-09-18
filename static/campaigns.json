@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "updated": "2026-09-18T17:00:00+09:00",
+  "campaigns": {
+    "closed_test_week": {
+      "active": 1
+    },
+    "closed_test_month": {
+      "active": 1
+    },
+    "closed_test_quarter": {
+      "active": 1
+    },
+    "closed_test_half": {
+      "active": 1
+    },
+    "closed_test_year": {
+      "active": 1
+    },
+    "closed_test_nolimit": {
+      "active": 1
+    },
+    "closed_test_spare": {
+      "active": 1
+    },
+    "reserved_week": {
+      "active": 1
+    },
+    "reserved_month": {
+      "active": 1
+    },
+    "reserved_quarter": {
+      "active": 1
+    },
+    "reserved_half": {
+      "active": 1
+    },
+    "reserved_year": {
+      "active": 1
+    },
+    "reserved_nolimit": {
+      "active": 1
+    },
+    "reserved_spare": {
+      "active": 1
+    }
+  }
+}
