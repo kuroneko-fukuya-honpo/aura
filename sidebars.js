@@ -13,6 +13,7 @@ const sidebars = {
   main: [
     'index',
     'plus',
+    'test',
     'sync',
     {
       type: 'category',
