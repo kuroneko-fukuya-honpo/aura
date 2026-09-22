@@ -31,6 +31,7 @@ const sidebars = {
     'story/index',
     'changelog',
     'privacy',
+    'delete-account',
     'contact',
   ],
 };
