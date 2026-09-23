@@ -13,36 +13,30 @@ sidebar_position: 5
 AURA は、**RSS・ニュース・キーワード購読をひとつにまとめて読むリーダー**です（Android）。
 :::
 
-## 参加の手順（3 手）
+## 参加の手順（2 手）
 
 :::caution 先着 25 名です
 クローズドテストの枠は **先着 25 名**です。枠が埋まりしだい、このページでお知らせします。
 :::
 
-### 1. メールを送る
+### 1. Google グループに参加する
 
-**Google Play で使っている Gmail アドレス**を、下記あてにお送りください。
+テスターの登録は Google グループで行っています。次のグループに参加してください。
 
-- **宛先**: [kuroneko.fukuya@gmail.com](mailto:kuroneko.fukuya@gmail.com)
-- **件名の例**: `AURA クローズドテスト参加希望`
-- **本文**: Google Play で使っている Gmail アドレス（テスターの登録に使います）
+- **グループ**: [AndroidClosedJP@googlegroups.com](https://groups.google.com/g/AndroidClosedJP)
 
-### 2. 参加リンクを開いて「テスターになる」を押す
+### 2. Google Play から AURA をインストール
 
-登録が済むと、こちらから返信します。返信が届いたら次のリンクを開いて
-**「テスターになる」**を押してください。
+グループに参加したあと、**Android 端末で**次のページを開いてインストールしてください。
 
-- 参加リンク: [https://play.google.com/apps/testing/ca.kuroneko.aura](https://play.google.com/apps/testing/ca.kuroneko.aura)
+- [https://play.google.com/store/apps/details?id=ca.kuroneko.aura](https://play.google.com/store/apps/details?id=ca.kuroneko.aura)
 
-> このリンクは、Google Play の審査が終わるまで開けません。開けないときは、しばらく待ってからお試しください。
-
-### 3. Google Play から AURA をインストール
-
-「テスターになる」を押したあとに表示されるリンクから、Google Play で AURA を入れてください。
+> ページが見つからないときは、グループに参加した Google アカウントに Play ストアを切り替えてください。
 
 ## テスト期間中のプラン
 
-**テスターの方には、AURA Plus を半年（6ヶ月）無料でお使いいただけるクーポンを、登録完了の返信でお渡しします。**
+**テスターの方（先着 25 名）には、AURA Plus を半年（6ヶ月）無料でお使いいただけるクーポンをお渡しします。**
+参加したら、募集の掲示板か [kuroneko.fukuya@gmail.com](mailto:kuroneko.fukuya@gmail.com) あてに一言お知らせください。
 
 クーポンの入れ方は 3 手です。
 
