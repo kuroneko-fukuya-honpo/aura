@@ -89,3 +89,14 @@
     overflow-x: auto;
   }
 }
+
+/* 使い方（/guide）の画面写真。幅をそろえ、面の境目が分かるよう細い枠を付ける。
+   画像は static/img/guide/ に置く（ビルドで assets/images/ へ移るので、src ではなくページの class で当てる） */
+[class*='docs-doc-id-guide/'] .markdown img {
+  display: block;
+  width: 300px;
+  max-width: 100%;
+  margin: 8px 0 20px;
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: 8px;
+}
