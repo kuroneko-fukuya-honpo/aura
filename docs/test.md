@@ -13,7 +13,7 @@ sidebar_position: 5
 AURA は、**RSS・ニュース・キーワード購読をひとつにまとめて読むリーダー**です（Android）。
 :::
 
-## 参加の手順（2 手）
+## 参加の手順（3 手）
 
 :::caution 先着 25 名です
 クローズドテストの枠は **先着 25 名**です。枠が埋まりしだい、このページでお知らせします。
@@ -25,13 +25,27 @@ AURA は、**RSS・ニュース・キーワード購読をひとつにまとめ�
 
 - **グループ**: [AndroidClosedJP@googlegroups.com](https://groups.google.com/g/AndroidClosedJP)
 
-### 2. Google Play から AURA をインストール
+### 2. テスターになる
 
-グループに参加したあと、**Android 端末で**次のページを開いてインストールしてください。
+次のページを開いて、「**テスターになる**」を押してください。
+
+- [https://play.google.com/apps/testing/ca.kuroneko.aura](https://play.google.com/apps/testing/ca.kuroneko.aura)
+
+### 3. Google Play から AURA をインストール
+
+**Android 端末で**次のページを開いてインストールしてください。
 
 - [https://play.google.com/store/apps/details?id=ca.kuroneko.aura](https://play.google.com/store/apps/details?id=ca.kuroneko.aura)
 
-> ページが見つからないときは、グループに参加した Google アカウントに Play ストアを切り替えてください。
+:::warning アカウントをそろえてください
+**グループに参加した Google アカウントと、Play ストアで使う Google アカウントを同じにしてください。**
+違うアカウントのままだと、手順 2 のページや AURA のアプリが表示されません。
+Play ストアでは右上のアカウントのアイコンを押して、グループに参加したアカウントに切り替えられます（ブラウザで開くときも、右上のアイコンから同じアカウントに切り替えてください）。
+:::
+
+:::note 14 日間はそのままに
+**インストールしてから最低 14 日間は、アンインストールせずにそのままにしておいてください。**
+:::
 
 ## テスト期間中のプラン
 
