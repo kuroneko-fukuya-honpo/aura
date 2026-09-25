@@ -28,6 +28,8 @@ jobs:
           cache: npm
       - run: npm ci
       - run: npm run build
+      # 太字の崩れ（`**` が記号のまま出る）を公開前に止める。全角の閉じかっこのすぐ後に助詞が続く太字は <strong> で書く
+      - run: "! grep -rl --include=*.html '[*][*]' build"
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
