@@ -4,6 +4,7 @@ title: クローズドテスター募集
 slug: /test
 sidebar_label: テスター募集
 sidebar_position: 5
+image: /img/og-aura-test.jpg
 ---
 
 # AURA クローズドテスター募集
