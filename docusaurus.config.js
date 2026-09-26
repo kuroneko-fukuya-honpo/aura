@@ -53,7 +53,8 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      image: 'img/docusaurus-social-card.jpg',
+      // リンクカード（og:image / twitter:image）の既定。黒猫福家本舗の枠に AURA。頁ごとの差し替えは frontmatter の image
+    image: 'img/og-aura.jpg',
       colorMode: {
         defaultMode: 'light',
         respectPrefersColorScheme: true,
