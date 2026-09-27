@@ -1,6 +1,6 @@
 ---
 id: index
-title: AURA とは
+title: 探さなくても、『気になる』が届く。
 slug: /
 sidebar_label: AURA とは
 sidebar_position: 1
