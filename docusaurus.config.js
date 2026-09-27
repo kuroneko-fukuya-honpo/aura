@@ -6,7 +6,7 @@
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'AURA',
-  tagline: '同期サーバーを持たない RSS リーダー',
+  tagline: '探さなくても、『気になる』が届く。',
   favicon: 'img/favicon.ico',
 
   url: 'https://kuroneko-fukuya-honpo.github.io',
