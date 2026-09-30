@@ -27,13 +27,19 @@ Even G2 との連携は **[AURA Plus](/plus)** の機能です。
 
 - AURA（この端末に入っていること）
 - Even Realities アプリと、ペアリング済みの G2
-- 眼鏡用プラグイン **AURA for G2**
+- 眼鏡用プラグイン **AURA for G2**（Even Hub で配っています）
+
+スマホを出さずに、グラスで見出しと本文を読めます。下のボタンから、Even Hub の AURA for G2 のページが開きます。
+
+<p><a className="button button--primary button--lg" href="https://evenhub.evenrealities.com/landing?package_id=ca.kuroneko.aura.g2">Even Hub で AURA for G2 を入れる</a></p>
+
+AURA の **設定 →「つながり」→「Even G2（眼鏡）」** の「Even Hub で AURA for G2 を入れる」からも開けます。
 
 ## 手順
 
 ### 1. AURA 側を入にする
 
-**設定 →「その他」→「Even G2（眼鏡）」** の「眼鏡に配信する」を**オン**にします。
+**設定 →「つながり」→「Even G2（眼鏡）」** の「眼鏡に配信する」を**オン**にします。
 
 - **8 文字の合言葉**が出ます（押すとコピーできます）
 - 通知の許可を聞かれたら許可してください（配信中に常駐通知を出すため）
