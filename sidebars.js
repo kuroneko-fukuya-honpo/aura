@@ -33,6 +33,7 @@ const sidebars = {
     'g2/index',
     'story/index',
     'changelog',
+    'roadmap',
     'privacy',
     'delete-account',
     'contact',
