@@ -1,12 +1,13 @@
 {
   "version": 1,
-  "updated": "2026-10-06T13:36:00+09:00",
-  "note": "AURA の広告の位置（Free だけ）。値を変えるのは、すがわらさんの指示があったときだけ。一覧と検索は記事の本数、マガジンは記事の頁の数で数える。countries の国の値は default の上に重なる。",
+  "updated": "2026-10-06T16:08:00+09:00",
+  "note": "AURA の広告の位置（Free だけ）。値を変えるのは、すがわらさんの指示があったときだけ。一覧と検索は記事の本数、マガジンは記事の頁の数で数える。countries の国の値は default の上に重なる。report_pdf は広告（リワード）を見てレポートの PDF を開ける 1 日の回数。",
   "default": {
     "list": { "first": 6, "every": 6, "on": 1 },
     "search": { "first": 6, "every": 6, "on": 1 },
     "magazine": { "first": 5, "every": 5, "on": 1 },
-    "brief": { "first": 1, "every": 0, "on": 1 }
+    "brief": { "first": 1, "every": 0, "on": 1 },
+    "report_pdf": { "per_day": 3, "on": 1 }
   },
   "countries": {
     "JP": {}
