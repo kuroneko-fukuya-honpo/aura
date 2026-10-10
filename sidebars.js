@@ -37,6 +37,7 @@ const sidebars = {
     'privacy',
     'delete-account',
     'contact',
+    'sources',
   ],
 };
 

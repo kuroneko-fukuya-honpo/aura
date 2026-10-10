@@ -88,6 +88,7 @@ const config = {
               { label: '更新履歴', to: '/changelog' },
               { label: 'プライバシーポリシー', to: '/privacy' },
               { label: '問い合わせ', to: '/contact' },
+              { label: '配信元の掲載について', to: '/sources' },
             ],
           },
           {
