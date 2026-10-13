@@ -14,6 +14,13 @@ AURA について、不具合の報告・要望・その他のご連絡はこち
 
 配信元（ニュースサイトやブログ）の運営者の方で、AURA への掲載を希望される場合は、[配信元の掲載について](/sources)をご覧ください。
 
+## LINE でのお問い合わせ
+
+黒猫福家本舗の LINE アカウントで、AURA のご質問を受け付けています。AI が答えています。担当（人）に代わるときは、そうお伝えします。
+
+- 友だち追加: [https://line.me/R/ti/p/%40690yokig](https://line.me/R/ti/p/%40690yokig)
+- LINE でのお問い合わせのプライバシーポリシー: [https://kuroneko-line.kuroneko-fukuya.workers.dev/privacy](https://kuroneko-line.kuroneko-fukuya.workers.dev/privacy)
+
 ## SNS
 
 最新情報やお知らせは、こちらでもお伝えします。
