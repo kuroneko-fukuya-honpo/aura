@@ -13,7 +13,7 @@ const sidebars = {
   main: [
     'index',
     'plus',
-    'test',
+    // 'test'（クローズドテスターの募集）は 2026-10-11 に締め切った。ページは古い記事や X からのリンクのために残し、並びからは外す（AU-017・2026-10-15）
     'sync',
     {
       type: 'category',
