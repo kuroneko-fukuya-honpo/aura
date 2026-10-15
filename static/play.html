@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>AURA ・ 音声版を再生</title>
+<style>
+  body { font-family: -apple-system, "Segoe UI", "BIZ UDPGothic", sans-serif; background: #FBF9F4; color: #141A26; margin: 0; padding: 32px 20px; }
+  .box { max-width: 520px; margin: 0 auto; }
+  h1 { font-size: 20px; margin: 0 0 12px; }
+  p { line-height: 1.7; }
+  a.btn { display: inline-block; padding: 12px 18px; border-radius: 10px; background: #0F1624; color: #FBF9F4; text-decoration: none; font-weight: bold; margin: 8px 8px 0 0; }
+  a.sub { display: inline-block; padding: 12px 18px; border-radius: 10px; border: 2px solid #B8902E; color: #B8902E; text-decoration: none; font-weight: bold; margin: 8px 8px 0 0; }
+  small { color: #5B6475; }
+</style>
+</head>
+<body>
+<div class="box">
+  <h1>AURA ・ アルとビィのニュース</h1>
+  <p id="msg">AURA を開いています…</p>
+  <p>
+    <a class="btn" id="open" href="#">AURA で再生する</a>
+    <a class="sub" href="https://kuroneko-fukuya-honpo.github.io/aura/">AURA について</a>
+  </p>
+  <p><small>このリンクは、AURA Brief のレポートの QR から来た「音声版のこの回・この話題」を、お使いの端末の AURA で再生するためのものです。AURA が入っていない端末では再生できません（音声版はその端末の購読から作ったものです）。</small></p>
+</div>
+<script>
+  // レポートの QR: https://kuroneko-fukuya-honpo.github.io/aura/play?e=<回>&t=<話題> → aura://play?e=…&t=…（AU-018 3-1）
+  var q = new URLSearchParams(location.search);
+  var e = q.get("e") || "", t = q.get("t") || "0";
+  var app = "aura://play?e=" + encodeURIComponent(e) + "&t=" + encodeURIComponent(t);
+  var intent = "intent://play?e=" + encodeURIComponent(e) + "&t=" + encodeURIComponent(t) + "#Intent;scheme=aura;package=ca.kuroneko.aura;S.browser_fallback_url=" + encodeURIComponent(location.href + "&fallback=1") + ";end";
+  var ua = navigator.userAgent || "";
+  var link = /Android/i.test(ua) ? intent : app;
+  document.getElementById("open").setAttribute("href", link);
+  if (!q.get("fallback") && e) {
+    setTimeout(function () { location.href = link; }, 300);
+    setTimeout(function () { document.getElementById("msg").textContent = "AURA が開かないときは、下の「AURA で再生する」を押してください。AURA が入っていない端末では、AURA を入れてからこの QR を読み直してください。"; }, 2500);
+  } else {
+    document.getElementById("msg").textContent = "AURA が入っている端末で、この QR を読み直してください。";
+  }
+</script>
+</body>
+</html>
