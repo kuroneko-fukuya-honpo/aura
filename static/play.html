@@ -27,6 +27,8 @@
 </div>
 <script>
   // レポートの QR: https://kuroneko-fukuya-honpo.github.io/aura/play?e=<回>&t=<話題> → aura://play?e=…&t=…（AU-018 3-1）
+  // 回の印は 2 つの形を受け取る（AU-021 補足・353 から）: 短い形「<印の頭 8 桁>.<作った時刻（分）の 36 進>」（例 854a4f64.hth4z・QR を小さくするため）と、
+  // 古い形「<印 16 桁>/<時刻 ms>」（352 までのレポート）。どちらもそのまま AURA に渡し、AURA 側が読み分ける
   var q = new URLSearchParams(location.search);
   var e = q.get("e") || "", t = q.get("t") || "0";
   var app = "aura://play?e=" + encodeURIComponent(e) + "&t=" + encodeURIComponent(t);
