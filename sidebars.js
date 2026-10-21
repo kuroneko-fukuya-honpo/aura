@@ -38,6 +38,7 @@ const sidebars = {
     'roadmap',
     'privacy',
     'delete-account',
+    'credits',
     'contact',
     'sources',
   ],
