@@ -98,7 +98,7 @@ AURA は、気になる言葉と好きなサイトの記事を一か所に集め
 
 <p><a className="button button--primary button--lg" href="https://play.google.com/store/apps/details?id=ca.kuroneko.aura">Google Play で見る</a></p>
 
-Google Play で配信しています（テスト版から順に公開）。Android 8.0 以上で使えます。
+Google Play で配信しています。Android 8.0 以上で使えます。
 
 ## 当方に送られないもの
 
