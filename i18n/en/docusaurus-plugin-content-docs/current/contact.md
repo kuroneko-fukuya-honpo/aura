@@ -23,7 +23,7 @@ If you run a source (a news site or blog) and would like it listed in AURA, see 
 The following helps us reproduce the problem.
 
 1. Your device and Android version
-2. Your AURA version (Settings > Info & support > Version)
+2. Your AURA version (Settings > Info & support, to the right of the **About the app** heading; it also appears at the bottom of the first Settings screen)
 3. What you did, and what happened
 4. The source URL (if it happens with a specific feed)
 

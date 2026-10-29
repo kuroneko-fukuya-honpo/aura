@@ -14,7 +14,7 @@ description: News that finds you. Add a keyword once, and new articles keep arri
 Stop hunting for news and let it come to you. Add a keyword once — a technology, a team, a hobby, a company you follow — and new articles keep arriving on their own.
 
 **AURA** is an Android app that gathers new articles from the RSS feeds of news sites and blogs, and from keywords on Google News. **AURA has no sync server.**
-**The only server we run is a relay for the AI that writes the AURA Brief audio briefing scripts. It never receives your feeds, what you've read, or your articles.** There is no account to create with us.
+**The only server we run is one relay. It is used only for the AI that writes AURA Brief · Audio scripts, counting episodes, the token of a device that started the free trial, and sharing the reading and translation dictionaries. It never receives your feeds, what you've read, or your articles.** There is no account to create with us.
 
 You sign in to Google only when you use sync between devices (**[AURA Plus](/plus)**, optional).
 Even then, your data is saved in **an app-only folder in your own Google Drive** (a place you can't see either), and
@@ -51,7 +51,7 @@ There is no limit on the number of feeds. Everything not marked "AURA Plus" is *
 ### Listen
 
 - Have articles read aloud
-- Make a two-host audio briefing (Beta) that talks you through the news (AURA Plus; on Free, watch one ad for 1 episode a day)
+- Make **AURA Brief · Audio** (Beta), a short two-host briefing with Jet and Kit that talks you through the news (on Free, watch one ad for 1 episode a day; AURA Plus gets 3 a day ad-free, then 1 ad per episode up to 8 a day)
 - Make narrated reports, where pages turn along with the voices (AURA Plus)
 
 ### Read comfortably
@@ -69,12 +69,25 @@ With **[AURA Plus](/plus)**, you also get:
 - **No ads**
 - **AURA Brief reports in every export format** — PDF, PowerPoint, Word, Excel, and CSV (you can edit the numbers in PowerPoint charts)
 - **Narrated reports** — add the voices, and pages turn along with the narration
-- **Two-host audio briefing (Beta): 3 episodes a day, ad-free**
-- **Unlimited keyword feeds** and **World view** (gather from Google News in other countries, with headlines and summaries translated on your device)
+- **AURA Brief · Audio (Beta): 3 episodes a day, ad-free** (after that, 1 ad per episode, up to 8 a day), and saving episodes as m4a
+- **Unlimited keyword feeds**, keyword editions for other countries, importing keyword feeds from OPML, and **World view** (gather from Google News in other countries, with headlines and summaries translated on your device)
 - **[Sync between devices](/sync)** — keep feeds, read status, and saved articles the same across devices (saved in your own Google Drive; we never receive it)
 - **Merge duplicate stories**, **Filters** (hide articles with certain words, or pin them to the top), and **choose how long read articles are kept**
 - **Photo frame** (also as a screen saver) and **[Even G2 support](/g2)**
-- Bulk add from the source directory, widgets, and more storage for saved text and images ([details](/plus))
+- Select all in the source directory, widgets, and more storage for saved text and images ([details](/plus))
+
+## Screenshots
+
+<div className="store-shots">
+  <img src="/aura/img/store/en/screenshot-01.webp" width="270" height="480" loading="lazy" alt="The article list. Articles from keywords and the sites you follow, sorted into folders" />
+  <img src="/aura/img/store/en/screenshot-02.webp" width="270" height="480" loading="lazy" alt="Keyword feeds and the source directory. Follow words from Google News, or pick sources by RSS" />
+  <img src="/aura/img/store/en/screenshot-03.webp" width="270" height="480" loading="lazy" alt="News from abroad. Headlines and summaries translated on your device" />
+  <img src="/aura/img/store/en/screenshot-04.webp" width="270" height="480" loading="lazy" alt="Full text, saved for offline reading. Tap to hide parts you don't need" />
+  <img src="/aura/img/store/en/screenshot-05.webp" width="270" height="480" loading="lazy" alt="Choose how to read: 2 columns, large cards, magazine, or photo frame" />
+  <img src="/aura/img/store/en/screenshot-06.webp" width="270" height="480" loading="lazy" alt="Read aloud. Articles are read in each article's language" />
+  <img src="/aura/img/store/en/screenshot-07.webp" width="270" height="480" loading="lazy" alt="Send articles to Even G2 smart glasses (AURA Plus)" />
+  <img src="/aura/img/store/en/screenshot-08.webp" width="270" height="480" loading="lazy" alt="AURA Brief report. Choose in one sentence, then save as PDF or PowerPoint" />
+</div>
 
 ## Download
 
@@ -85,9 +98,9 @@ Available on Google Play. Requires Android 8.0 or later.
 ## What we never receive
 
 - Your feeds, read status, or saved articles
-- Records of when or how often you read (AURA doesn't keep them in the first place)
+- A record of each article you read
 
-The only server we run is the relay for the audio briefing's AI scripts, so we never receive any of these.
+Our relay server never receives any of these. Only counts of how features are used and crash records are sent to Google's Firebase (turn this off with Settings > Info & support > **Send usage and crash reports**; see the [Privacy Policy](/privacy)).
 
 :::note When you make an audio briefing or a narrated report
 Only when you make an AURA Brief audio briefing (including when a narrated report needs a new episode because none exists for that period yet), AURA sends the titles, outlet names, dates, and summaries of the articles in scope, plus the full text of the articles for the chosen topics, to the relay for the AI scripts. It never sends your feed list, your reading history, or personal information. What it sends is not used to train AI (see "AI scripts" in the [Privacy Policy](/privacy)). You can turn this off in Settings.

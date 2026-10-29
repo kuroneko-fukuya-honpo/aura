@@ -36,6 +36,18 @@ const config = {
     },
   },
 
+  // 英語の組み立てには Instagram の素材（static/posts・85MB）を写さない。読みに来るのは /aura/posts/ だけ（AU-117）
+  plugins: [
+    () => ({
+      name: 'drop-posts-outside-ja',
+      async postBuild({outDir, i18n}) {
+        if (i18n.currentLocale === i18n.defaultLocale) return;
+        const fs = await import('node:fs/promises');
+        await fs.rm(`${outDir}/posts`, {recursive: true, force: true});
+      },
+    }),
+  ],
+
   presets: [
     [
       'classic',

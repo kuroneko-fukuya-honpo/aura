@@ -6,56 +6,37 @@ slug: /guide/offline
 
 # Read offline
 
-After a refresh brings in new articles, AURA **prefetches** the full text of articles that don't have it yet and keeps it on your device.
-The next time you open them, you can read without a connection. In the list, articles you can read offline have a cloud mark.
+With **Keep articles for offline reading**, AURA **keeps the full text and images of articles on your device**, so you can read them without a signal.
+In the list, articles you can read offline have a cloud mark.
 
-## How prefetch works
+## How it works
 
-Prefetch **has no count limit: it fetches every article that's missing full text**. When it would use a lot of data, AURA asks first.
-
-| Connection | Auto-refresh (scheduled) | When you refresh yourself |
-| --- | --- | --- |
-| Wi-Fi | Fetches everything without asking | **Asks first if there are 200 or more**, then fetches everything |
-| Mobile data | Doesn't fetch (waits for Wi-Fi or for you to refresh) | **Always asks first**, then fetches everything |
-
-The prompt shows the count and the estimated data use (about 0.1 MB per article).
-Tap **Fetch** to start. If you choose **Cancel**, AURA won't ask again while the app is open.
-
-:::note
-By default, full text is fetched on **Wi-Fi only** (see “Data use” below).
-If you refresh on mobile data with this setting, AURA doesn't fetch full text and shows “Full text wasn't fetched (…).”
-To fetch on mobile data too, set **Fetch full text** to **Use mobile data too**.
-:::
-
-When you add a new feed, AURA fetches that feed's articles **first** (it doesn't wait for a prefetch that's already running).
+- AURA keeps the full text and images of **saved articles** (first) and **new articles** (for 48 hours after they arrive)
+- It fetches them **only on Wi-Fi**, **while AURA is closed**. While AURA is open, it pauses to show the list and articles first
+- It rests while your battery is low or your device is hot
+- On mobile data, AURA fetches only the article you open, when you open it. The same goes for articles older than 48 hours
+- Automatic prefetch uses up to 50 MB a day (this limit doesn't apply while your device is charging on Wi-Fi)
 
 ## Settings
 
 Go to **Settings > Offline & storage**.
 
-- **What to fetch for when there's no signal**
-  - **Include images** — Fetches the text and the images in it (the default)
-  - **Text only** — Doesn't fetch images. Useful for saving mobile data
-  - **None** — Doesn't prefetch. AURA fetches an article when you open it
-- **Amount to keep on device** — The storage limit. A quarter goes to text and three quarters to images. Anything over the limit is removed, oldest first (saved articles stay).
+![Settings > Offline & storage](/img/guide/en/offline-settings.jpg)
+
+- **Keep articles for offline reading** — **On Wi-Fi (recommended)** or **Don't keep** (AURA fetches only the article you open, when you open it)
+- **Storage** > **Amount to keep on device** — 128, 256, 512, or 1024 MB, or Unlimited. A quarter goes to text and three quarters to images. Anything over the limit is removed, oldest first (saved articles stay).
   Free accounts can use up to 512 MB. 1024 MB and Unlimited are **[AURA Plus](/plus)** features
-- **Data use** — For each of **Fetching article lists**, **Fetch full text**, and **Fetch images**, choose **Use mobile data too** or **Wi-Fi only**
-- **Fetch all missing full text** — Fetches full text for every article that doesn't have it yet
-- **Delete fetched full text and images** (Settings > Offline & storage > **Free up space**) — For read articles only, or all (full text of saved articles stays)
+- **Image location** — With a removable SD card inserted, tap **Move images to SD card**. Article text stays on the device, so articles aren't lost if you remove the card
+- **Images** > **Fetch smaller images** — Limits the long side to 1920 px and stores images as WebP (done on your device only)
+- **Space in use** — **Articles available offline** (the count), **Article text**, **Images**, **Total**, and **Data used this month**
+- **Free up space**
+  - **Clean up read articles** and **Clean up now** (see [Read and save](/guide/read))
+  - **Delete fetched full text and images (read articles)** / **Delete fetched full text and images (all)** — Full text of saved articles stays
 
 ## Progress
 
-While prefetching, the bar above the list shows the **Full text** chip and the headline of the article being fetched (see [Refresh progress](/guide/progress)).
-When it finishes, the bottom of the list shows **Full-text fetch done** with a breakdown (fetched, failed, images, and data used) for 12 seconds.
+While AURA is fetching full text, **↻ and a count** appear at the top right of the list (see [Refresh progress](/guide/progress)).
+When a fetch finishes, the bottom of the list shows **Full-text fetch done** with a breakdown (fetched, failed, images, and data used) for a short while.
 The top of the drawer also shows **Articles you can read offline** with the number on your device, such as “2187 / 11753.”
-
-## When many articles pile up
-
-If syncing, importing OPML, or subscribing to many feeds at once suddenly adds a lot of articles without full text,
-AURA asks what to do.
-
-- **Fetch all now**
-- **A little at a time**
-- **Don't fetch** — AURA stops fetching missing full text automatically (you can turn it back on later with Settings > Offline & storage > **Resume automatic fetching of missing full text**)
 
 To learn what happens when full text can't be fetched, see [Full-text fetch](/guide/fulltext).

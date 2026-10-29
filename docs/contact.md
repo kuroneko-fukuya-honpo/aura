@@ -28,9 +28,10 @@ AURA について、不具合の報告・要望・その他のご連絡はこち
 - **YouTube**: [@kuronekofukuyahonpo](https://www.youtube.com/@kuronekofukuyahonpo)
 - **X（旧 Twitter）**: [@kuroneko_fukuya](https://x.com/kuroneko_fukuya)
 - **note**: [kuroneko_fukuya](https://note.com/kuroneko_fukuya)
+- **Instagram**: [kuroneko.fukuya](https://www.instagram.com/kuroneko.fukuya/)
 
 :::note
-Google Play に公開するときは、ストアの掲載情報にもここと同じ連絡先を書きます。
+Google Play の掲載情報にも、ここと同じ連絡先を書いています。
 :::
 
 ## 不具合を知らせるとき
@@ -38,7 +39,7 @@ Google Play に公開するときは、ストアの掲載情報にもここと�
 次が分かると、こちらで再現しやすくなります。
 
 1. 端末と Android のバージョン
-2. AURA のバージョン（設定 → 情報とサポート → バージョン）
+2. AURA のバージョン（設定 → 情報とサポート →「アプリについて」の見出しの右。設定の最初の画面のいちばん下にも出ます）
 3. 何をしたときに、何が起きたか
 4. 配信元の URL（特定の購読で起きる場合）
 

@@ -11,14 +11,16 @@ AURA is built so that **you can use it as your everyday reader for free**.
 
 - **No limit on the number of feeds**
 - **No account to create with us**
-- **The only server we run is a relay for the audio briefing's AI scripts. It never receives your feeds, read status, or articles.**
+- **The only server we run is one relay (for AURA Brief · Audio scripts, episode counts, the free-trial device token, and shared dictionaries). It never receives your feeds, read status, or articles.**
   You sign in to Google only when you use sync between devices (below, optional), and your data is saved in your own Google Drive
 
 AURA Plus adds features that help you keep up as you read more. It's a **monthly subscription. The price is shown in Google Play for your country.**
 
-:::note Current status
-Sign-ups have not opened yet. When they do, we'll announce it in an app update and on this page.
+:::note How to subscribe
+In the app, go to **Settings > Account & plan > Subscribe to AURA Plus**. You subscribe through Google Play, which shows the price for your country.
 :::
+
+<img src="/aura/img/guide/en/plus-plan.jpg" width="300" loading="lazy" alt="Settings > Account & plan: Start 2-week free trial, Subscribe to AURA Plus, Restore purchases" style={{display: "block", maxWidth: "100%", margin: "8px 0 20px", border: "1px solid var(--ifm-color-emphasis-300)", borderRadius: 8}} />
 
 ## What you can do for free
 
@@ -27,7 +29,7 @@ Sign-ups have not opened yet. When they do, we'll announce it in an app update a
 - Folders, read management, and on-device search
 - Full-text extraction and offline reading
 - Image cache
-- Three themes and a choice of list layouts
+- Themes (Light, Dark, Black) with your own colors, and a choice of list layouts
 - Add feeds from other apps' "Share" menu
 - **Keyword feeds (up to 3)** — AURA follows Google News search results for your country as a source.
   You can also choose Medium (by tag), DEV (by tag), and Hacker News (by title); these are off by default.
@@ -44,7 +46,7 @@ A **monthly subscription** (the price is shown in Google Play for your country).
   Choose whether to match titles only or the article text too, and whether to apply to all feeds or to a folder or feed
 - **Choose how long read articles are kept** — Articles you've read but not saved are cleaned up, text and images included, 30 days after you read them, even on Free
   (to protect your phone's storage). With AURA Plus, choose anywhere from 3 to 90 days. Saved and unread articles are never deleted
-- **Unlimited keyword feeds** — Follow Google News search results as a source. Free is limited to 3
+- **Unlimited keyword feeds** — Follow Google News search results as a source. Free is limited to 3. Keyword editions for other countries and importing keyword feeds from OPML (Free imports up to your open slots) are also AURA Plus
 - **Sync between devices** — Keep feeds, folders, filters, settings, and read status the same across devices.
   Data is saved in an app-only folder in your own Google Drive (you can't see it either), and we never receive it.
   You can set a "main device," and when you switch phones, the new device can take over as main even if the old one is no longer with you
@@ -55,14 +57,14 @@ A **monthly subscription** (the price is shown in Google Play for your country).
 - **Download AURA Brief reports (PowerPoint, Excel, Word, PDF, CSV)** — Save AURA Brief reports (key points, rising words, word trends, outlet mix, time of day, words that appear together, tone estimate, and featured articles) as PowerPoint, Excel, Word, PDF, or CSV, or send them to other apps. You can edit the numbers in PowerPoint charts with "Edit Data."
   Browsing AURA Brief, making reports, and viewing every page on your phone are free. On Free, you can also save a PDF once by watching one ad (with a daily limit)
 - **Narrated reports** — Add the voices to a report, and its pages turn along with the narration (if there's no audio briefing episode for that period yet, AURA makes a new one)
-- **Two-host audio briefing (Beta): 3 episodes a day, ad-free** — On Free, watch one ad to make 1 episode a day
+- **AURA Brief · Audio (Beta): 3 episodes a day, ad-free** — After that, 1 ad per episode, up to 8 a day. You can save episodes as audio (m4a). On Free, watch one ad to make 1 episode a day
 - **World view** — Gather keyword articles from Google News in other countries, with headlines and summaries translated on your device
 - **Photo frame** — Show photos with article headlines. It also works as a screen saver
 
 ### No ads, plus things you set up once
 
 - **No ads**
-- **Bulk add from the source directory** — Add several feeds at once from the built-in source directory
+- **Select all in the source directory** — Select every feed you don't follow yet in a topic at once (picking feeds one by one is free)
 - **Widgets** — Put an article list on your home screen
 - **Store more (full text and images)** — Raise the limit on how much full text and how many images AURA keeps
 
@@ -84,10 +86,10 @@ A **monthly subscription** (the price is shown in Google Play for your country).
 | Browse AURA Brief, make and view reports | ✓ | ✓ |
 | Download AURA Brief reports (PowerPoint, Excel, Word, PDF, CSV) | 1 PDF per ad | ✓ |
 | Narrated reports | — | ✓ |
-| Two-host audio briefing (Beta) | 1 episode a day per ad | **3 a day, ad-free** |
+| AURA Brief · Audio (Beta) | 1 episode a day per ad | **3 a day, ad-free** (then 1 ad each, up to 8) |
 | World view (other countries) | — | ✓ |
 | Photo frame | — | ✓ |
-| Bulk add from the source directory | — | ✓ |
+| Select all in the source directory | — | ✓ |
 | Widgets | — | ✓ |
 | Store more (full text and images) | — | ✓ |
 | Price | Free | Monthly subscription (price shown in Google Play) |
@@ -96,7 +98,10 @@ A **monthly subscription** (the price is shown in Google Play for your country).
 
 Try every AURA Plus feature with a **2-week free trial**.
 
-- **The trial starts only when you choose to start it.** Installing the app doesn't start it
+- **The trial starts when you tap Settings > Account & plan > Start 2-week free trial.** Installing the app doesn't start it
+- No payment method is needed, and you return to Free when it ends (you're never charged automatically)
+- The trial is available once per device. Clearing the app's data or reinstalling doesn't give you another one. You need a connection to start it
+- If you subscribe during the trial, the trial ends right away
 - When the trial ends, **your filter rules and cleanup settings are kept**.
   They just stop working, and they work again as before when you get AURA Plus
 
@@ -119,8 +124,8 @@ There are three ways.
 - **[Sync between devices](/sync) (AURA Plus)** — Sign in to the same Google account on the new device,
   and your feeds, folders, filters, settings, read status, and list of saved articles come over.
   Even if the old device is no longer with you, choose "Make this the main device" on the new one to take over
-- **Switch phones (export and import)** (free) — In **Settings > Connections > Switch phones (export and import)**,
-  put your feeds and settings into one file, then import it on the new device
+- **Moving to a new phone** (free) — In **Settings > Connections > Moving to a new phone**,
+  put your feeds, folders, filters, saved articles, and settings into one file, then import it on the new device (read status and purchases aren't included; use **Restore purchases** for AURA Plus)
 - **OPML** — To move just your feed list, use "Export OPML" and "Import OPML" from the "⋮" menu in **Settings > Collect > Manage feeds**
   (see [Import and export with OPML](/guide/subscribe#import-and-export-with-opml))
 

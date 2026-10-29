@@ -8,7 +8,9 @@ slug: /guide/list-mode
 
 Use the icon on the left of the rounded box at the top of the list to switch between **List** and **Magazine** (swipe left and right).
 The icon shows **the layout you'll get when you tap it** (in List, it shows the Magazine icon). The 🔍 on the right of the same box is **Search**.
-The switch applies only to that list (folder). A list that differs from your default layout has a vermilion dot at the top right of the icon.
+The same layout is used in every folder. It's the same setting as **Settings > Appearance > Article list layout**.
+
+![Magazine view](/img/guide/en/list-magazine.jpg)
 
 Choose how the list is arranged from three options in **Settings > Appearance > List look**.
 
@@ -17,8 +19,6 @@ Choose how the list is arranged from three options in **Settings > Appearance > 
 | 2 columns | Two columns. Now and then, an article with an image is shown large across the full width |
 | Large cards | One column with large images |
 | List | One column, compact and text-focused (the default) |
-
-In single-column layouts (Large cards and List), swipe an article left or right to save it or mark it as read (see [Read and save](/guide/read)).
 
 ## Images
 
@@ -41,6 +41,6 @@ Either way, your browser shows the page. AURA never displays the site itself.
 
 ## Other settings
 
-- **Scrollbar** — Shows a scrollbar at the right edge of the list. Drag the handle to jump quickly. While you drag, it shows the date of the article at that position. You can choose the color, width, opacity, and shape
-- **Show embeds in articles** — Shows YouTube videos and X, Instagram, and TikTok posts in the article in a frame (they load only when you tap them)
-- **Notify when parts are hidden** — Shows a “N parts hidden” banner above articles that have hidden parts
+- **Scrollbar** (Settings > Appearance > **Scrollbar**) — Shows a scrollbar at the right edge of the list. Drag the handle to jump quickly. While you drag, it shows the date of the article at that position. You can choose the **Color**, **Width**, **Opacity**, and **Shape**
+- **Show embeds in articles** (Settings > Read & listen) — Shows YouTube videos and X posts in the article in a frame (they load only when you tap them)
+- **Notify when parts are hidden** (Settings > Read & listen) — Shows a “N parts hidden” banner above articles that have hidden parts

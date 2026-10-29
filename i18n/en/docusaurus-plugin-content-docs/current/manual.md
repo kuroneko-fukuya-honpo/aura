@@ -19,7 +19,7 @@ For details, follow the links at the end of each section.
 
 1. In the article list, tap **⋮** at the top right > **Add a feed**
 2. Tap **Enter a URL**, enter the site's URL (a site URL or an RSS / Atom URL), and tap **Find**
-3. Under **Add to folder**, choose a folder (if you don't, it goes to **Uncategorized**), then tap **Add to “…”**
+3. Under **Add to folder**, choose a folder (if you don't, it goes to **Uncategorized**), then tap **Add to …**
 
 If you don't know the URL, choose from **Source directory** on the same screen. → [Add a feed](/guide/subscribe)
 
@@ -37,7 +37,7 @@ Besides Google News for your country, you can also choose **Medium** (by tag), *
 <details>
 <summary>Keep articles to read later</summary>
 
-**Touch and hold** an article in the list, or tap the bookmark at the top of the article screen.
+**Touch & hold** an article in the list, or tap the bookmark at the top of the article screen.
 Saved articles aren't removed when AURA cleans up old articles, and AURA keeps their text and images so you can read them without a signal. → [Read and save](/guide/read)
 
 </details>
@@ -75,7 +75,7 @@ If AURA can't extract the text, you see the summary from the RSS feed. To read t
 ### Read and save
 
 Opening an article marks it as read (scrolling the list doesn't).
-Tap ✓✓ at the top right to choose a range and mark many as read at once. Save the articles you want to read later.
+Tap **⋮** at the top right of the list > **Mark all as read** to choose a range and mark many as read at once. Save the articles you want to read later.
 → [Read and save](/guide/read)
 
 ### Change how the list looks
@@ -86,16 +86,16 @@ In **Settings > Appearance**, choose the **List look** (2 columns, Large cards, 
 
 ### See what's running now
 
-While AURA is refreshing or fetching full text in the background, **↻ and a count** appear at the top right of the list (since 1.0.0-359).
+While AURA is refreshing or fetching full text in the background, **↻ and a count** appear at the top right of the list.
 
 - **Tap** — Shows the list of **Running tasks** for 4 seconds (it stays while you touch or scroll it)
-- **Touch and hold** — Keeps the list open (the mark changes to a pin). Touch and hold again, or tap ✕, to go back
+- **Touch & hold** — Keeps the list open (the mark changes to a pin). Touch & hold again, or tap ✕, to go back
 
 When everything finishes, you see **✓ All done** and the mark goes away.
 
 ## Keep articles for offline reading {#offline}
 
-This setting **keeps article text and images on your device** so you can read without a signal (since 1.0.0-359).
+This setting **keeps article text and images on your device** so you can read without a signal.
 In **Settings > Offline & storage > Keep articles for offline reading**, choose one of these.
 
 | Option | What it keeps | Connection |
@@ -105,7 +105,7 @@ In **Settings > Offline & storage > Keep articles for offline reading**, choose 
 
 - For articles older than 48 hours, AURA fetches only the one you open, when you open it
 - Saved articles are fetched first
-- To see how much is kept, check **Articles you can read offline** (the count) and **Space in use** on the same screen.
+- To see how much is kept, check **Space in use** on the same screen (**Articles available offline** shows the count).
   How much is removed in cleanup depends on **Amount to keep on device** (saved articles aren't removed)
 
 :::note
@@ -115,7 +115,7 @@ and picks up where it left off a while after you close it. It also rests while y
 
 ## When you have many feeds {#many-feeds}
 
-With **more than 150 feeds**, each refresh takes longer and uses more battery and data (since 1.0.0-360, a notice appears at the top of **Manage feeds**).
+With **more than 150 feeds**, each refresh takes longer and uses more battery and data (a notice appears at the top of **Manage feeds**).
 Keeping only the sources you read often makes it lighter.
 
 | Feeds | Time for one refresh (typical) |
@@ -129,7 +129,7 @@ These are estimates and vary by device (measured on a Galaxy Z Fold2 on Wi-Fi).
 
 ## Photo frame motion {#frame}
 
-In **Photo frame settings > Motion**, choose one of 8 ways to show photos (since 1.0.0-360). A small sample moves in each row.
+In **Photo frame settings > Motion**, choose one of 8 ways to show photos. A small sample moves in each row.
 
 | Motion | What it does |
 | --- | --- |
@@ -152,7 +152,7 @@ AURA Brief reports (PowerPoint, PDF, Word, and Excel) and parts of the audio bri
 and from information that AI (Anthropic's Claude and others) looked up.
 
 The audio briefing is **AURA Brief · Audio** (Beta). Two cats talk you through the news: Jet (the host) and Kit (the commentator).
-To change how they sound, choose **Standard** or **Young** in **Settings > Read aloud > Write scripts with AI > AURA Brief voice**.
+To change how they sound, choose **Standard** or **Young** in **Settings > Read & listen > Read aloud > Write scripts with AI > AURA Brief voice**.
 
 - **AI writing can contain errors or out-of-date information.** Always check facts, dates, and numbers in the original articles (the QR codes in reports, and **Source articles** in the audio briefing)
 - Reports and audio briefings aren't advice for investment, medical, legal, or other decisions

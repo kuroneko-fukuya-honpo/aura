@@ -5,5 +5,6 @@
 // ストア側は Play Console の定期購入の設定。3 か所を同時に直すこと
 // （AURA の docs/DECISIONS.md「Plus の価格と機能一覧の出どころ」）。
 
-export const PLUS_PRICE = '月額 500 円';
+// 値段の数字は書かない（国ごとに Google Play が出す・2026-10-30 すがわらさん）
+export const PLUS_PRICE = '月額の定期購入';
 export const PLUS_TRIAL = '2 週間';
