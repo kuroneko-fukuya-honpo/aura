@@ -82,6 +82,8 @@ Searching Google News in other countries (**Other countries**) and **World view*
 In **Source directory**, on the **English** tab, **To read many at once** has **Google News topics**: the official topic feeds from Google News (top stories, world, business, technology, and more).
 Tap one to subscribe. Feeds you already have show **Subscribed**.
 
+![Source directory > English > United States (Google News topics at the top)](/img/guide/en/subscribe-google.jpg)
+
 ## Source directory
 
 If you don't want to look up URLs, tap **Source directory**. Switch between **English** and **Other languages** at the top, choose a country or region, then choose a topic and an outlet.
