@@ -7,6 +7,8 @@ sidebar_position: 1
 description: 探さなくても、『気になる』が届く。NISA も、副業も、コスメも、推しのニュースも。言葉をひとつ登録すれば、新しい記事がひとりでに集まります。
 ---
 
+import Video, {Videos} from '@site/src/components/Video';
+
 # AURA
 
 **探さなくても、『気になる』が届く。**
@@ -21,6 +23,13 @@ description: 探さなくても、『気になる』が届く。NISA も、副�
 **当方は受け取りません**（[同期のしくみ](/sync)）。同期を使わなければ、購読リストも既読もこの端末の中だけにあります。
 
 作っているのは **黒猫福家本舗** です。
+
+## 動画で見る
+
+<Videos>
+  <Video id="VtF_85q_ODI" title="AURA 紹介（全機能を 4 分半で）" lang="ja" />
+  <Video id="sS129O4XLos" title="AURA の使い方をざっと紹介（7 分）" lang="ja" />
+</Videos>
 
 ## 何ができるか
 
@@ -46,6 +55,14 @@ AURA は、気になる言葉と好きなサイトの記事を一か所に集め
 - 「レポートにする」を押すと、対象・期間・読む人向けか発信する人向けかを 1 文で決めて、資料を作れます
 - 気になる言葉や話題を足して、その記事だけのレポートも作れます
 - PDF・PowerPoint・Word・Excel・CSV に書き出せます。よく使う形と送り先は覚えておくので、次からは 1 回で保存できます（すべての形は AURA Plus。無料では広告を 1 本見ると PDF を 1 回保存できます）
+
+AURA Brief の動画:
+
+<Videos>
+  <Video id="iRyKyfIFBkU" title="AURA Brief 完全ガイド（13 分）" lang="ja" />
+  <Video id="6jtPV52c_rE" title="AURA Brief 画面編（8 分）" lang="ja" />
+  <Video id="Qh0dPa2feCs" title="AURA Brief レポート編（6 分半）" lang="ja" />
+</Videos>
 
 ### 聴いて楽しむ
 

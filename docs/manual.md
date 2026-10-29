@@ -7,9 +7,18 @@ sidebar_position: 3
 description: AURA の使い方を 1 ページにまとめています。基本の使い方・記事をオフライン用に取っておく設定・快適に使うコツ。
 ---
 
+import Video, {Videos} from '@site/src/components/Video';
+
 # AURA の使い方
 
 AURA の使い方を、このページにまとめています。上から読んでも、目次から飛んでも構いません。
+
+動画でも見られます。
+
+<Videos>
+  <Video id="sS129O4XLos" title="AURA の使い方をざっと紹介（7 分）" lang="ja" />
+  <Video id="fDuiUGlT-9w" title="AURA 使い方ガイド【マニュアル版】（20 分）" lang="ja" />
+</Videos>
 くわしい説明は、各節の終わりのリンクから開けます。
 
 ## やりたいことから探す

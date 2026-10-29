@@ -125,3 +125,14 @@
   .navbar__item.aura-lang-switch { display: flex; align-items: center; margin-left: auto; padding: 0 8px; }
   .navbar__item.aura-lang-switch a { font-weight: 600; font-size: 0.9rem; color: var(--ifm-navbar-link-color); white-space: nowrap; }
 }
+
+/* AU-119: 紹介動画（押すまで読み込まない） */
+.aura-videos { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px; margin: 0 0 1.5rem; }
+.aura-video { margin: 0 0 1rem; }
+.aura-video__frame { position: relative; aspect-ratio: 16 / 9; border-radius: 10px; overflow: hidden; background: #000; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15); }
+.aura-video__frame iframe, .aura-video__poster, .aura-video__poster img { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+.aura-video__poster { padding: 0; cursor: pointer; background: #000; }
+.aura-video__poster img { object-fit: cover; }
+.aura-video__play { position: absolute; left: 50%; top: 50%; width: 68px; height: 48px; margin: -24px 0 0 -34px; border-radius: 12px; background: rgba(200, 40, 30, 0.92); }
+.aura-video__play::after { content: ''; position: absolute; left: 27px; top: 14px; border-style: solid; border-width: 10px 0 10px 17px; border-color: transparent transparent transparent #fff; }
+.aura-video figcaption { margin-top: 6px; font-size: 0.9rem; color: var(--ifm-color-emphasis-700); }

@@ -7,6 +7,8 @@ sidebar_position: 1
 description: News that finds you. Add a keyword once, and new articles keep arriving on their own. A news and RSS reader for Android.
 ---
 
+import Video, {Videos} from '@site/src/components/Video';
+
 # AURA
 
 **News that finds you.**
@@ -47,6 +49,12 @@ There is no limit on the number of feeds. Everything not marked "AURA Plus" is *
 - Tap "Make a report" and set the scope, period, and audience in one sentence to make a document
 - Add words or topics to make a report on just those articles
 - Export to PDF, PowerPoint, Word, Excel, or CSV. AURA remembers your usual format and destination, so next time you can save in one tap (all formats with AURA Plus; on Free, watch one ad to save a PDF once)
+
+A video about AURA Brief (Japanese audio with English subtitles; turn on CC):
+
+<Videos>
+  <Video id="6jtPV52c_rE" title="AURA Brief: the screens (8 min)" lang="en" />
+</Videos>
 
 ### Listen
 

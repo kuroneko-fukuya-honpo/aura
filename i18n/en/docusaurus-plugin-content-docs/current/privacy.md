@@ -175,6 +175,10 @@ Our relay server (the same as in "AI scripts" above) handles a shared dictionary
 
 To check radio programs mentioned in articles, and to play those programs, AURA may pass the **station, program name, and broadcast date and time** to the app "Radipocket" on the same device. This is passed **only within the same device**, and AURA does not send it to external servers for this purpose. How Radipocket handles it after receiving it is governed by [Radipocket's privacy policy](https://radipocket.github.io/docs/privacy-policy.html). If Radipocket is not installed, nothing is passed.
 
+### Videos on this website
+
+The introduction videos on this website load the YouTube (Google) player (`youtube-nocookie.com`) only when you tap the play button. Nothing is sent to YouTube until you do. After you play a video, [Google's Privacy Policy](https://policies.google.com/privacy) applies.
+
 ## 4. What is stored on the device
 
 The following data is **all stored in the app's area on the device**. It is never sent to us.
@@ -284,6 +288,7 @@ The content of the articles shown depends on the sources you have added.
 
 If we change the content, we will update this page and revise the last updated date.
 
+- 2026-10-30: Added "Videos on this website" at the end of "3." (YouTube is loaded only when you tap play)
 - 2026-10-30: In the introduction, "2.", and "3.", added that even with AURA Plus, a rewarded ad is shown for the 4th or later AURA Brief · Audio episode of the day and for a long version (and that the ad SDK communicates at that time). Added "Translation in World view and on-device AI" and "Shared dictionary of readings and translations" to "3.", and added rows for the places to search for keyword feeds, embed providers, ML Kit translation, the shared dictionary, and the distributors of the "AI voice" data, plus in-app updates for Google Play, to the table of destinations. Revised what is sent in "AI scripts" (the length of article text, the program name and the two hosts' names, the script language, and distinctive terms from articles whose sources refuse use by AI) and the path for turning off online speech synthesis. Added the "AI voice" data to "4." and revised how many audio briefing episodes are kept. Revised what our relay server handles in "1." and "6.", and added the foreground service (media playback) to "7." Changed the version of AURA for G2 to 0.98.0
 - 2026-10-25: In "AI scripts" under "3." and in the table of destinations, added that the same method is used to send when a new audio briefing episode is made for AURA Brief's "report you can listen to"
 - 2026-10-17: In "AI scripts" under "3." and in the table of destinations, changed the AI destination to **Anthropic (Claude API)** (with Google's Gemini API as a backup only when Claude is unavailable). Searches are done with the web search of the Claude API. Revised how the simplicity of the script's wording is described
