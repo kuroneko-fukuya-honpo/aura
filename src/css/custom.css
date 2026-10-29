@@ -118,3 +118,10 @@
   border-radius: 10px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
 }
+
+/* AU-118: 上の帯の言語の切り替え。スマホの幅（メニューが畳まれる幅）だけ出す。PC の幅は右の言語の選び */
+.navbar__item.aura-lang-switch { display: none; }
+@media (max-width: 996px) {
+  .navbar__item.aura-lang-switch { display: flex; align-items: center; margin-left: auto; padding: 0 8px; }
+  .navbar__item.aura-lang-switch a { font-weight: 600; font-size: 0.9rem; color: var(--ifm-navbar-link-color); white-space: nowrap; }
+}
