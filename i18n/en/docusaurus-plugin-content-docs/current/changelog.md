@@ -16,6 +16,9 @@ Each heading is a version released on Google Play. To check your version, go to 
 
 ---
 
-## English version (in preparation)
+## In development (not on Google Play yet)
 
-The first English release will be listed here when it is available on Google Play.
+- AURA is now available in English. Choose the language in Settings > Appearance > Language (1.0.0-426)
+- AURA Brief counts English articles with English word tools and tone (VADER). Choose which articles to see with 日本語, English or Both (1.0.0-426)
+- Keyword feeds can also search Medium, DEV and Hacker News when you turn them on (1.0.0-426)
+- Two-host audio briefing in English (Beta) (1.0.0-426)
