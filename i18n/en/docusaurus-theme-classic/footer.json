@@ -1,0 +1,62 @@
+{
+  "link.title.AURA": {
+    "message": "AURA",
+    "description": "The title of the footer links column with title=AURA in the footer"
+  },
+  "link.title.この先も読む": {
+    "message": "More",
+    "description": "The title of the footer links column with title=この先も読む in the footer"
+  },
+  "link.title.SNS": {
+    "message": "SNS",
+    "description": "The title of the footer links column with title=SNS in the footer"
+  },
+  "link.item.label.AURA とは": {
+    "message": "About AURA",
+    "description": "The label of footer link with label=AURA とは linking to /"
+  },
+  "link.item.label.使い方": {
+    "message": "How to use",
+    "description": "The label of footer link with label=使い方 linking to /guide/subscribe"
+  },
+  "link.item.label.Even G2 連携": {
+    "message": "Even G2",
+    "description": "The label of footer link with label=Even G2 連携 linking to /g2"
+  },
+  "link.item.label.AURA Plus": {
+    "message": "AURA Plus",
+    "description": "The label of footer link with label=AURA Plus linking to /plus"
+  },
+  "link.item.label.更新履歴": {
+    "message": "What's new",
+    "description": "The label of footer link with label=更新履歴 linking to /changelog"
+  },
+  "link.item.label.プライバシーポリシー": {
+    "message": "Privacy Policy",
+    "description": "The label of footer link with label=プライバシーポリシー linking to /privacy"
+  },
+  "link.item.label.問い合わせ": {
+    "message": "Contact",
+    "description": "The label of footer link with label=問い合わせ linking to /contact"
+  },
+  "link.item.label.配信元の掲載について": {
+    "message": "Listed sources (Japanese)",
+    "description": "The label of footer link with label=配信元の掲載について linking to /sources"
+  },
+  "link.item.label.YouTube": {
+    "message": "YouTube",
+    "description": "The label of footer link with label=YouTube linking to https://www.youtube.com/@kuronekofukuyahonpo"
+  },
+  "link.item.label.X（旧 Twitter）": {
+    "message": "X (Twitter)",
+    "description": "The label of footer link with label=X（旧 Twitter） linking to https://x.com/kuroneko_fukuya"
+  },
+  "link.item.label.note": {
+    "message": "note",
+    "description": "The label of footer link with label=note linking to https://note.com/kuroneko_fukuya"
+  },
+  "copyright": {
+    "message": "© 2026 Black Cat Fortune Works (Kuroneko Fukuya)",
+    "description": "The footer copyright"
+  }
+}

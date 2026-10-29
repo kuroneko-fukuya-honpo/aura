@@ -26,9 +26,14 @@ const config = {
     },
   },
 
+  // 英語の頁は /aura/en/…（AU-110 回 5）。訳の無い頁は日本語のまま出る
   i18n: {
     defaultLocale: 'ja',
-    locales: ['ja'],
+    locales: ['ja', 'en'],
+    localeConfigs: {
+      ja: { label: '日本語', htmlLang: 'ja' },
+      en: { label: 'English', htmlLang: 'en-US' },
+    },
   },
 
   presets: [
@@ -68,6 +73,7 @@ const config = {
           { to: '/story', label: '開発の記録', position: 'left' },
           { to: '/changelog', label: '更新履歴', position: 'right' },
           { to: '/privacy', label: 'プライバシー', position: 'right' },
+          { type: 'localeDropdown', position: 'right' },
         ],
       },
       footer: {

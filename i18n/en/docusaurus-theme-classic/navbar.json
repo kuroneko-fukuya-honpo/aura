@@ -1,0 +1,30 @@
+{
+  "title": {
+    "message": "AURA",
+    "description": "The title in the navbar"
+  },
+  "item.label.使い方": {
+    "message": "How to use",
+    "description": "Navbar item with label 使い方"
+  },
+  "item.label.Even G2 連携": {
+    "message": "Even G2",
+    "description": "Navbar item with label Even G2 連携"
+  },
+  "item.label.AURA Plus": {
+    "message": "AURA Plus",
+    "description": "Navbar item with label AURA Plus"
+  },
+  "item.label.開発の記録": {
+    "message": "Development story",
+    "description": "Navbar item with label 開発の記録"
+  },
+  "item.label.更新履歴": {
+    "message": "What's new",
+    "description": "Navbar item with label 更新履歴"
+  },
+  "item.label.プライバシー": {
+    "message": "Privacy",
+    "description": "Navbar item with label プライバシー"
+  }
+}
