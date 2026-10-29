@@ -24,6 +24,15 @@ Even then, your data is saved in **an app-only folder in your own Google Drive**
 
 AURA is made by **Black Cat Fortune Works (Kuroneko Fukuya)**.
 
+## Watch the videos
+
+Japanese audio — the Japanese edition of AURA. Turn on English subtitles (CC).
+
+<Videos>
+  <Video id="VtF_85q_ODI" title="AURA in 4.5 minutes: every feature" lang="en" />
+  <Video id="sS129O4XLos" title="A quick tour of AURA (7 min)" lang="en" />
+</Videos>
+
 ## What you can do
 
 AURA is a news and RSS reader that brings the words you care about and the sites you love into one place. Instead of checking app after app, let the stories that match your interests come to you.
@@ -50,10 +59,12 @@ There is no limit on the number of feeds. Everything not marked "AURA Plus" is *
 - Add words or topics to make a report on just those articles
 - Export to PDF, PowerPoint, Word, Excel, or CSV. AURA remembers your usual format and destination, so next time you can save in one tap (all formats with AURA Plus; on Free, watch one ad to save a PDF once)
 
-A video about AURA Brief (Japanese audio with English subtitles; turn on CC):
+Videos about AURA Brief. Japanese audio — the Japanese edition of AURA. Turn on English subtitles (CC).
 
 <Videos>
+  <Video id="iRyKyfIFBkU" title="AURA Brief: the complete guide (13 min)" lang="en" />
   <Video id="6jtPV52c_rE" title="AURA Brief: the screens (8 min)" lang="en" />
+  <Video id="Qh0dPa2feCs" title="AURA Brief: reports (6.5 min)" lang="en" />
 </Videos>
 
 ### Listen

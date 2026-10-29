@@ -7,10 +7,19 @@ sidebar_position: 3
 description: How to use AURA, all on one page. The basics, keeping articles for offline reading, and tips for smooth use.
 ---
 
+import Video, {Videos} from '@site/src/components/Video';
+
 # How to use AURA
 
 This page sums up how to use AURA. Read it from the top, or jump to a section from the table of contents.
 For details, follow the links at the end of each section.
+
+You can also watch it as a video. Japanese audio — the Japanese edition of AURA. Turn on English subtitles (CC).
+
+<Videos>
+  <Video id="sS129O4XLos" title="A quick tour of AURA (7 min)" lang="en" />
+  <Video id="fDuiUGlT-9w" title="AURA user guide: the full manual (20 min)" lang="en" />
+</Videos>
 
 ## Find what you want to do
 
