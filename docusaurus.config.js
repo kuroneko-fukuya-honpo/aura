@@ -102,7 +102,8 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // リンクカード（og:image / twitter:image）の既定。黒猫福家本舗の枠に AURA。頁ごとの差し替えは frontmatter の image
-    image: 'img/og-aura.jpg',
+      // 英語の頁は英語の文字の画像（AU-121・News that finds you.）
+    image: process.env.DOCUSAURUS_CURRENT_LOCALE === 'en' ? 'img/og-aura-en.jpg' : 'img/og-aura.jpg',
       colorMode: {
         defaultMode: 'light',
         respectPrefersColorScheme: true,
