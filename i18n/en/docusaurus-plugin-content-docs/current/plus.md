@@ -124,7 +124,7 @@ There are three ways.
 - **[Sync between devices](/sync) (AURA Plus)** — Sign in to the same Google account on the new device,
   and your feeds, folders, filters, settings, read status, and list of saved articles come over.
   Even if the old device is no longer with you, choose "Make this the main device" on the new one to take over
-- **Moving to a new phone** (free) — In **Settings > Connections > Moving to a new phone**,
+- **Move to a new phone** (free) — In **Settings > Connections > Move to a new phone**,
   put your feeds, folders, filters, saved articles, and settings into one file, then import it on the new device (read status and purchases aren't included; use **Restore purchases** for AURA Plus)
 - **OPML** — To move just your feed list, use "Export OPML" and "Import OPML" from the "⋮" menu in **Settings > Collect > Manage feeds**
   (see [Import and export with OPML](/guide/subscribe#import-and-export-with-opml))

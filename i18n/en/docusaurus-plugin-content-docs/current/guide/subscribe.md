@@ -34,7 +34,7 @@ Then tap **Start AURA with N feeds**, or **Start without adding feeds**. You can
 
 ## From an RSS or Atom URL
 
-Tap **Enter a URL**, enter the URL, and tap **Find** (while the box is empty, the button is **Paste**). A site URL or an RSS URL both work: AURA finds the feed for you.
+Tap **Enter a URL**, enter the URL, and tap **Find** (while the box is empty, the button is **Paste**). Either a site URL or an RSS URL works. AURA finds the feed for you.
 While it looks, you see “Looking for a feed… (up to 25 seconds).”
 
 ![Enter a URL (a feed was found)](/img/guide/en/subscribe-url.jpg)

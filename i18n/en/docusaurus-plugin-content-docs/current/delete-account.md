@@ -44,7 +44,7 @@ Disconnecting revokes AURA's permission to access your Drive data, and
 **Uninstall AURA.** Your feed list, articles, read and saved status, settings, image cache,
 and automatic backup files are deleted from your device when you uninstall.
 
-To stop syncing without deleting anything, go to **Settings > Connections > Sync across devices > Sign out** in the app.
+To stop syncing without deleting anything, go to **Settings > Connections > Sync between devices > Sign out** in the app.
 Sync stops (feeds and settings on the device stay as they are).
 
 ### Step C — Ask us to delete your data

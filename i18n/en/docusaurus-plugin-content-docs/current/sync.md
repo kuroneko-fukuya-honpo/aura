@@ -79,7 +79,7 @@ From the second time on, only the changes since the last sync are sent, so it fi
 ## 5. Main device
 
 When the same item differs between two devices, the **main device**'s version wins.
-Choose it in <strong>Settings > Connections > Sync across devices > Make this the main device</strong>.
+Choose it in <strong>Settings > Connections > Sync between devices > Make this the main device</strong>.
 When you switch phones, the new device can take over as main even if the old one is no longer with you.
 
 - **Redo sync** (on the main device) — Makes the feeds, folders, settings, filters, and hide rules on your other devices exactly match the main device (saved articles are kept)
@@ -101,7 +101,7 @@ For details, see the [Privacy Policy](/privacy).
 ## To use sync
 
 Sync between devices is an **AURA Plus** feature.
-To start, sign in with Google from <strong>Settings > Connections > Sync across devices</strong> in the app.
+To start, sign in with Google from <strong>Settings > Connections > Sync between devices</strong> in the app.
 
 If you only want to move your feeds and settings to a new phone, you can do it without AURA Plus:
-put them into a file in <strong>Settings > Connections > Moving to a new phone</strong> and take it with you.
+put them into a file in <strong>Settings > Connections > Move to a new phone</strong> and take it with you.
