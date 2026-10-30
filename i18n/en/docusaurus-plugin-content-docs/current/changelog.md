@@ -16,7 +16,7 @@ Each heading is a version released on Google Play. To check your version, go to 
 
 ---
 
-## In development (not on Google Play yet)
+## 1.0.0-426 (in review · 2026-10-30)
 
 - AURA is now available in English. Choose the language in Settings > Appearance > Language (1.0.0-426)
 - AURA Brief counts English articles with English word tools and tone (VADER). Choose which articles to see with 日本語, English or Both (1.0.0-426)
