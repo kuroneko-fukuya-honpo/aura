@@ -7,7 +7,7 @@ sidebar_position: 80
 
 # Privacy Policy
 
-Last updated: 2026-10-30 / Applies to: AURA 1.0.0 (Android) and AURA for G2 0.98.x (plugin for Even G2)
+Last updated: 2026-11-01 / Applies to: AURA 1.0.0 (Android) and AURA for G2 0.98.x (plugin for Even G2)
 
 This is an English translation of the Japanese privacy policy. If the two differ, the Japanese version prevails.
 AURA ("the app") is an RSS reader provided by **Black Cat Fortune Works (Kuroneko Fukuya)** ("we").
@@ -132,7 +132,7 @@ Also, when you turn on Settings > Advanced > "Use on-device AI," AI on the devic
 
 To improve the app and fix bugs, the app uses Google's **Firebase Analytics** (how the app is used) and **Firebase Crashlytics** (records of crashes).
 
-- **What is sent**: The types and counts of the features you used (e.g. started Read aloud, exported a report, subscribed to AURA Plus; only types such as the language of the article read aloud or the format of the report), your current plan (Free / Plus), the device model and OS version, the app version, and records of crashes (where the crash happened). In addition, Firebase handles the app instance ID (an ID that changes when you reinstall the app) and the approximate region estimated from the connection's IP address
+- **What is sent**: The types and counts of the features you used (e.g. started Read aloud, exported a report, subscribed to AURA Plus; only types such as the language of the article read aloud or the format of the report), your current plan (Free / Plus), the device model and OS version, the app version, and records of crashes (where the crash happened), and, when you use a coupon, the type of that coupon (plan, duration, and distribution type) and its serial number (a number from 0 to 255, not the coupon code itself). In addition, Firebase handles the app instance ID (an ID that changes when you reinstall the app) and the approximate region estimated from the connection's IP address
 - **What is not sent**: Article headlines, URLs, and article text, search words, your list of feeds, and coupon codes. **We do not let Firebase collect the Advertising ID or the Android ID**
 - **How to stop it**: Turn off Settings > Info & support > "Send usage and crash reports," and neither Analytics nor Crashlytics sends anything. Records of crashes that happen while it is off are discarded without being stored on the device
 - The information sent is handled by Google and is not sold to third parties. For details, see [Firebase privacy and security](https://firebase.google.com/support/privacy)
