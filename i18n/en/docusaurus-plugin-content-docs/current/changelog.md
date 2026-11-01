@@ -9,7 +9,7 @@ sidebar_position: 70
 
 AURA (Article Update & Reading Assistant)
 
-**Available on Google Play: 1.0.0-426**
+**Available on Google Play: 1.0.0-429**
 
 This page lists changes starting from the first English release (1.0.0-426).
 Earlier changes are listed only in Japanese.
@@ -18,7 +18,7 @@ Each heading is a version released on Google Play. A heading marked **in review*
 
 ---
 
-## 1.0.0-429 (in review · 2026-11-01)
+## 1.0.0-429 (released · 2026-11-01)
 
 - Rebuilt "Listen" in AURA Brief: one header and two tiles make it clear what to create and play (1.0.0-428)
 - On tablets and unfolded phones, the Brief overview now lays out side by side, and the article you're reading is marked in the list (1.0.0-429)
