@@ -7,7 +7,7 @@ sidebar_position: 80
 
 # Privacy Policy
 
-Last updated: 2026-11-01 / Applies to: AURA 1.0.0 (Android) and AURA for G2 0.98.x (plugin for Even G2)
+Last updated: 2026-11-03 / Applies to: AURA 1.0.0 (Android) and AURA for G2 0.98.x (plugin for Even G2)
 
 This is an English translation of the Japanese privacy policy. If the two differ, the Japanese version prevails.
 AURA ("the app") is an RSS reader provided by **Black Cat Fortune Works (Kuroneko Fukuya)** ("we").
@@ -76,7 +76,7 @@ The app communicates with **the parties needed for you to read**, with <strong>a
 | Providers of embeds (YouTube, X) | When you tap an embed in the article text | Showing the embed |
 | `/favicon.ico` on the source's site | When adding a feed and when refreshing | Getting the icon shown in the list |
 | Google (AdMob, User Messaging Platform) | When showing ads **in the free version**. With AURA Plus, only when you watch a rewarded ad for the 4th or later audio briefing episode of the day or a long version ("2. Ads") | Getting and showing ads, checking consent ("2. Ads") |
-| Our official website (`kuroneko-fukuya-honpo.github.io`) | While you are using a coupon, and when you open the app in the free version (at most once every 6 hours) | Checking the coupon acceptance status and the ad position settings (both are public files). We send no information |
+| Our official website (`kuroneko-fukuya-honpo.github.io`) | While you are using a coupon, when you open the app in the free version (at most once every 6 hours), and when you open the app with Japanese as its language (at most once a day) | Checking the coupon acceptance status, the ad position settings, and the list of the author's book recommendations (all are public files). We send no information |
 | Google Play | When purchasing AURA Plus, restoring purchases, and at launch | Purchase processing and checking purchase status ("AURA Plus purchases" below). Checking whether a new version is available (in-app updates) |
 | Google (Google Drive) | When sync between devices is on | Sync ("5. Sync between devices") |
 | Google (ML Kit) | When identifying an article's language | Diagnostics and usage analytics ("Identifying article language" below) |
@@ -133,6 +133,7 @@ Also, when you turn on Settings > Advanced > "Use on-device AI," AI on the devic
 To improve the app and fix bugs, the app uses Google's **Firebase Analytics** (how the app is used) and **Firebase Crashlytics** (records of crashes).
 
 - **What is sent**: The types and counts of the features you used (e.g. started Read aloud, exported a report, subscribed to AURA Plus; only types such as the language of the article read aloud or the format of the report), your current plan (Free / Plus), the device model and OS version, the app version, records of crashes (where the crash happened), and, when you use a coupon, the type of that coupon (plan, duration, and distribution type) and its serial number (a number from 0 to 255, not the coupon code itself). In addition, Firebase handles the app instance ID (an ID that changes when you reinstall the app) and the approximate region estimated from the connection's IP address
+- **The author's book recommendations**: When you open a book recommendation card or a sample reading, the book's ID number is sent for usage analytics (the book's title and what you read are not sent)
 - **What is not sent**: Article headlines, URLs, and article text, search words, your list of feeds, and coupon codes. **We do not let Firebase collect the Advertising ID or the Android ID**
 - **How to stop it**: Turn off Settings > Info & support > "Send usage and crash reports," and neither Analytics nor Crashlytics sends anything. Records of crashes that happen while it is off are discarded without being stored on the device
 - The information sent is handled by Google and is not sold to third parties. For details, see [Firebase privacy and security](https://firebase.google.com/support/privacy)
@@ -288,6 +289,7 @@ The content of the articles shown depends on the sources you have added.
 
 If we change the content, we will update this page and revise the last updated date.
 
+- 2026-11-03: In "Usage and crash reports" under "3.", added that the book's ID number is sent when you open a recommendation card or a sample reading of the author's books, and added the list of the author's book recommendations to the row for our official website in the table of destinations
 - 2026-10-30: Added "Videos on this website" at the end of "3." (YouTube is loaded only when you tap play)
 - 2026-10-30: In the introduction, "2.", and "3.", added that even with AURA Plus, a rewarded ad is shown for the 4th or later AURA Brief · Audio episode of the day and for a long version (and that the ad SDK communicates at that time). Added "Translation in World view and on-device AI" and "Shared dictionary of readings and translations" to "3.", and added rows for the places to search for keyword feeds, embed providers, ML Kit translation, the shared dictionary, and the distributors of the "AI voice" data, plus in-app updates for Google Play, to the table of destinations. Revised what is sent in "AI scripts" (the length of article text, the program name and the two hosts' names, the script language, and distinctive terms from articles whose sources refuse use by AI) and the path for turning off online speech synthesis. Added the "AI voice" data to "4." and revised how many audio briefing episodes are kept. Revised what our relay server handles in "1." and "6.", and added the foreground service (media playback) to "7." Changed the version of AURA for G2 to 0.98.0
 - 2026-10-25: In "AI scripts" under "3." and in the table of destinations, added that the same method is used to send when a new audio briefing episode is made for AURA Brief's "report you can listen to"
