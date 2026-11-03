@@ -54,7 +54,9 @@
     "work"
    ],
    "asin": "B0DGWJ4SFD",
-   "kindle_unlimited": true
+   "kindle_unlimited": true,
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b01.json",
+   "sample_percent": 8.8
   },
   {
    "id": "b02",
@@ -66,7 +68,9 @@
     "night"
    ],
    "asin": "B0DHKG1LQZ",
-   "kindle_unlimited": true
+   "kindle_unlimited": true,
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b02.json",
+   "sample_percent": 8.8
   },
   {
    "id": "b03",
@@ -78,7 +82,9 @@
     "work"
    ],
    "asin": "B0DKM849LS",
-   "kindle_unlimited": true
+   "kindle_unlimited": true,
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b03.json",
+   "sample_percent": 9.0
   },
   {
    "id": "b04",
@@ -90,7 +96,9 @@
     "work"
    ],
    "asin": "B0DRHSRSPT",
-   "kindle_unlimited": true
+   "kindle_unlimited": true,
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b04.json",
+   "sample_percent": 8.7
   },
   {
    "id": "b05",
@@ -102,7 +110,9 @@
     "morning"
    ],
    "asin": "B0DH8GF7HZ",
-   "kindle_unlimited": true
+   "kindle_unlimited": true,
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b05.json",
+   "sample_percent": 9.0
   },
   {
    "id": "b06",
@@ -114,7 +124,9 @@
     "work"
    ],
    "asin": "B0DRHJNFKL",
-   "kindle_unlimited": true
+   "kindle_unlimited": true,
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b06.json",
+   "sample_percent": 8.9
   },
   {
    "id": "b07",
@@ -126,7 +138,9 @@
     "work"
    ],
    "asin": "B0DLNPZ4DG",
-   "kindle_unlimited": true
+   "kindle_unlimited": true,
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b07.json",
+   "sample_percent": 9.0
   },
   {
    "id": "b08",
@@ -138,7 +152,9 @@
     "holiday"
    ],
    "asin": "B0DYV8J5CM",
-   "kindle_unlimited": true
+   "kindle_unlimited": true,
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b08.json",
+   "sample_percent": 8.9
   },
   {
    "id": "b09",
@@ -150,7 +166,9 @@
     "work"
    ],
    "asin": "B0DRGQQM83",
-   "kindle_unlimited": true
+   "kindle_unlimited": true,
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b09.json",
+   "sample_percent": 7.9
   },
   {
    "id": "b10",
@@ -163,7 +181,8 @@
    ],
    "asin": "B0CW1GLVLQ",
    "kindle_unlimited": true,
-   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b10.json"
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b10.json",
+   "sample_percent": 8.8
   },
   {
    "id": "b11",
@@ -175,7 +194,9 @@
     "morning"
    ],
    "asin": "B0DG47CCX6",
-   "kindle_unlimited": true
+   "kindle_unlimited": true,
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b11.json",
+   "sample_percent": 8.9
   },
   {
    "id": "b12",
@@ -187,7 +208,9 @@
     "work"
    ],
    "asin": "B0DPWCFK1W",
-   "kindle_unlimited": true
+   "kindle_unlimited": true,
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b12.json",
+   "sample_percent": 8.8
   },
   {
    "id": "b13",
@@ -199,7 +222,9 @@
     "work"
    ],
    "asin": "B0DL28Z8WH",
-   "kindle_unlimited": true
+   "kindle_unlimited": true,
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b13.json",
+   "sample_percent": 8.9
   },
   {
    "id": "b14",
@@ -211,7 +236,9 @@
     "work"
    ],
    "asin": "B0DG4YCTH2",
-   "kindle_unlimited": true
+   "kindle_unlimited": true,
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b14.json",
+   "sample_percent": 8.8
   },
   {
    "id": "b15",
@@ -223,7 +250,9 @@
     "holiday"
    ],
    "asin": "B0DHB3CTNS",
-   "kindle_unlimited": true
+   "kindle_unlimited": true,
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b15.json",
+   "sample_percent": 9.0
   },
   {
    "id": "b16",
@@ -236,7 +265,9 @@
     "holiday"
    ],
    "asin": "B0DHJCHR5F",
-   "kindle_unlimited": true
+   "kindle_unlimited": true,
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b16.json",
+   "sample_percent": 8.9
   },
   {
    "id": "b17",
@@ -248,7 +279,9 @@
     "holiday"
    ],
    "asin": "B0DKB4VMJ4",
-   "kindle_unlimited": true
+   "kindle_unlimited": true,
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b17.json",
+   "sample_percent": 8.8
   },
   {
    "id": "b18",
@@ -260,7 +293,9 @@
     "holiday"
    ],
    "asin": "B0DGGCBYBT",
-   "kindle_unlimited": true
+   "kindle_unlimited": true,
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b18.json",
+   "sample_percent": 9.0
   },
   {
    "id": "b19",
@@ -272,7 +307,9 @@
     "night"
    ],
    "asin": "B0DG4RPPMF",
-   "kindle_unlimited": true
+   "kindle_unlimited": true,
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b19.json",
+   "sample_percent": 8.9
   },
   {
    "id": "b20",
@@ -284,7 +321,9 @@
     "work"
    ],
    "asin": "B0DFLY3PSH",
-   "kindle_unlimited": true
+   "kindle_unlimited": true,
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b20.json",
+   "sample_percent": 9.0
   },
   {
    "id": "b21",
@@ -296,7 +335,9 @@
     "commute"
    ],
    "asin": "B0DFFQJLY8",
-   "kindle_unlimited": true
+   "kindle_unlimited": true,
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b21.json",
+   "sample_percent": 8.9
   },
   {
    "id": "b22",
@@ -308,7 +349,9 @@
     "holiday"
    ],
    "asin": "B0DGCRFCVS",
-   "kindle_unlimited": true
+   "kindle_unlimited": true,
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b22.json",
+   "sample_percent": 9.0
   },
   {
    "id": "b23",
@@ -320,7 +363,9 @@
     "holiday"
    ],
    "asin": "B0DG93PDKB",
-   "kindle_unlimited": true
+   "kindle_unlimited": true,
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b23.json",
+   "sample_percent": 8.8
   },
   {
    "id": "b24",
@@ -332,7 +377,9 @@
     "commute"
    ],
    "asin": "B0DFCXHYV8",
-   "kindle_unlimited": true
+   "kindle_unlimited": true,
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b24.json",
+   "sample_percent": 8.8
   },
   {
    "id": "b25",
@@ -344,7 +391,9 @@
     "holiday"
    ],
    "asin": "B0DK6RFGW1",
-   "kindle_unlimited": true
+   "kindle_unlimited": true,
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b25.json",
+   "sample_percent": 8.9
   },
   {
    "id": "b26",
@@ -356,7 +405,9 @@
     "holiday"
    ],
    "asin": "B0DK55QXTY",
-   "kindle_unlimited": true
+   "kindle_unlimited": true,
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b26.json",
+   "sample_percent": 8.9
   },
   {
    "id": "b27",
@@ -369,7 +420,9 @@
     "night"
    ],
    "asin": "B0DF6K5B49",
-   "kindle_unlimited": true
+   "kindle_unlimited": true,
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b27.json",
+   "sample_percent": 8.6
   },
   {
    "id": "b28",
@@ -381,7 +434,9 @@
     "holiday"
    ],
    "asin": "B0DSJL9WF2",
-   "kindle_unlimited": true
+   "kindle_unlimited": true,
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b28.json",
+   "sample_percent": 8.7
   },
   {
    "id": "b29",
@@ -393,7 +448,9 @@
     "morning"
    ],
    "asin": "B0DSC8477T",
-   "kindle_unlimited": true
+   "kindle_unlimited": true,
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b29.json",
+   "sample_percent": 8.8
   },
   {
    "id": "b30",
@@ -406,7 +463,9 @@
     "night"
    ],
    "asin": "B0DS9FVRBC",
-   "kindle_unlimited": true
+   "kindle_unlimited": true,
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b30.json",
+   "sample_percent": 8.9
   },
   {
    "id": "b31",
@@ -418,7 +477,9 @@
     "holiday"
    ],
    "asin": "B0DS9FC7F9",
-   "kindle_unlimited": true
+   "kindle_unlimited": true,
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b31.json",
+   "sample_percent": 9.0
   },
   {
    "id": "b32",
@@ -431,7 +492,9 @@
     "night"
    ],
    "asin": "B0DJTYD3C2",
-   "kindle_unlimited": true
+   "kindle_unlimited": true,
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b32.json",
+   "sample_percent": 9.0
   },
   {
    "id": "b33",
@@ -443,7 +506,9 @@
     "night"
    ],
    "asin": "B0DHR4RP1H",
-   "kindle_unlimited": true
+   "kindle_unlimited": true,
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b33.json",
+   "sample_percent": 8.9
   },
   {
    "id": "b34",
@@ -455,7 +520,9 @@
     "holiday"
    ],
    "asin": "B0DH1SN81T",
-   "kindle_unlimited": true
+   "kindle_unlimited": true,
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b34.json",
+   "sample_percent": 8.9
   },
   {
    "id": "b35",
@@ -467,7 +534,9 @@
     "holiday"
    ],
    "asin": "B0DGWNXF9W",
-   "kindle_unlimited": true
+   "kindle_unlimited": true,
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b35.json",
+   "sample_percent": 8.2
   },
   {
    "id": "b36",
@@ -479,7 +548,9 @@
     "morning"
    ],
    "asin": "B0DGF81KZ7",
-   "kindle_unlimited": true
+   "kindle_unlimited": true,
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b36.json",
+   "sample_percent": 8.9
   },
   {
    "id": "b37",
@@ -491,7 +562,9 @@
     "work"
    ],
    "asin": "B0DG4X35QP",
-   "kindle_unlimited": true
+   "kindle_unlimited": true,
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b37.json",
+   "sample_percent": 8.9
   },
   {
    "id": "b38",
@@ -503,7 +576,9 @@
     "work"
    ],
    "asin": "B0DFCS11MQ",
-   "kindle_unlimited": true
+   "kindle_unlimited": true,
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b38.json",
+   "sample_percent": 8.9
   },
   {
    "id": "b39",
@@ -516,7 +591,9 @@
     "holiday"
    ],
    "asin": "B0GV3MDWC7",
-   "kindle_unlimited": true
+   "kindle_unlimited": true,
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b39.json",
+   "sample_percent": 9.0
   },
   {
    "id": "b40",
@@ -529,7 +606,9 @@
     "commute"
    ],
    "asin": "B0GTMRM839",
-   "kindle_unlimited": true
+   "kindle_unlimited": true,
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b40.json",
+   "sample_percent": 9.0
   },
   {
    "id": "b41",
@@ -541,7 +620,9 @@
     "night"
    ],
    "asin": "B0GHZSMKVV",
-   "kindle_unlimited": true
+   "kindle_unlimited": true,
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b41.json",
+   "sample_percent": 8.8
   },
   {
    "id": "b42",
@@ -553,7 +634,9 @@
     "holiday"
    ],
    "asin": "B0F1FP293M",
-   "kindle_unlimited": true
+   "kindle_unlimited": true,
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b42.json",
+   "sample_percent": 8.9
   },
   {
    "id": "b43",
@@ -565,7 +648,9 @@
     "holiday"
    ],
    "asin": "B0DYYYXKD4",
-   "kindle_unlimited": true
+   "kindle_unlimited": true,
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b43.json",
+   "sample_percent": 8.9
   },
   {
    "id": "b44",
@@ -577,7 +662,9 @@
     "holiday"
    ],
    "asin": "B0DWMTQT82",
-   "kindle_unlimited": true
+   "kindle_unlimited": true,
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b44.json",
+   "sample_percent": 9.0
   },
   {
    "id": "b45",
@@ -589,7 +676,9 @@
     "morning"
    ],
    "asin": "B0DKCWRJP6",
-   "kindle_unlimited": true
+   "kindle_unlimited": true,
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b45.json",
+   "sample_percent": 8.9
   },
   {
    "id": "b46",
@@ -601,7 +690,9 @@
     "holiday"
    ],
    "asin": "B0DJJDF85Q",
-   "kindle_unlimited": true
+   "kindle_unlimited": true,
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b46.json",
+   "sample_percent": 8.9
   },
   {
    "id": "b47",
@@ -613,7 +704,9 @@
     "holiday"
    ],
    "asin": "B0DHFR1BPM",
-   "kindle_unlimited": true
+   "kindle_unlimited": true,
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b47.json",
+   "sample_percent": 8.9
   },
   {
    "id": "b48",
@@ -625,7 +718,9 @@
     "holiday"
    ],
    "asin": "B0DH8GXLDQ",
-   "kindle_unlimited": true
+   "kindle_unlimited": true,
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b48.json",
+   "sample_percent": 8.8
   },
   {
    "id": "b49",
@@ -637,7 +732,9 @@
     "holiday"
    ],
    "asin": "B0DH666KPK",
-   "kindle_unlimited": true
+   "kindle_unlimited": true,
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b49.json",
+   "sample_percent": 8.9
   },
   {
    "id": "b50",
@@ -649,7 +746,9 @@
     "holiday"
    ],
    "asin": "B0DH53TCQ2",
-   "kindle_unlimited": true
+   "kindle_unlimited": true,
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b50.json",
+   "sample_percent": 8.9
   },
   {
    "id": "b51",
@@ -661,7 +760,9 @@
     "holiday"
    ],
    "asin": "B0DH1VTWV7",
-   "kindle_unlimited": true
+   "kindle_unlimited": true,
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b51.json",
+   "sample_percent": 8.8
   },
   {
    "id": "b52",
@@ -673,7 +774,9 @@
     "morning"
    ],
    "asin": "B0DGWS5PDB",
-   "kindle_unlimited": true
+   "kindle_unlimited": true,
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b52.json",
+   "sample_percent": 8.9
   },
   {
    "id": "b53",
@@ -685,7 +788,9 @@
     "holiday"
    ],
    "asin": "B0CW1GBN5P",
-   "kindle_unlimited": true
+   "kindle_unlimited": true,
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b53.json",
+   "sample_percent": 8.9
   }
  ]
 }
