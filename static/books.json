@@ -1,0 +1,691 @@
+{
+ "version": 2,
+ "percent": 0,
+ "mode": "daily",
+ "week": {
+  "start": "2026-11-02",
+  "book": "b10",
+  "sections": [
+   {
+    "day": 1,
+    "title": "「迷路の出口」は、意外と近い",
+    "text": "そんな時、私たちはつい、目の前の情報を鵜呑みにしてしまいがちです。しかし、ここで一歩立ち止まり、情報をじっくりと吟味することができれば、迷路の出口は意外と近くにあるかもしれません。この書籍では、そんな迷路を抜け出すための「クリティカルシンキング」をご紹介します。"
+   },
+   {
+    "day": 2,
+    "title": "「本当に？」が第一歩",
+    "text": "例えば、SNSでシェアされた「このサプリで10キロ痩せました！」という広告を見たとき、あなたはどう反応しますか？そのまま信じてしまうのか、それとも「本当に？」と疑問を持つのか。後者の反応こそが、クリティカルシンキングの第一歩です。"
+   },
+   {
+    "day": 3,
+    "title": "他人の靴を履いてみる",
+    "text": "次に、クリティカルシンキングは「多角的な視点」を持つことを求めます。例えば、友人が「新しいレストランは最高だった！」と言ったとき、あなたはその友人の味覚を信じるか、それとも他のレビューも確認するか。ここで重要なのは、他の視点を取り入れることで、自分の判断をより正確にすることです。"
+   },
+   {
+    "day": 4,
+    "title": "事実と意見を分ける",
+    "text": "さらに、クリティカルシンキングは「事実と意見を区別する」能力を養います。ニュース記事を読む際、事実に基づいた情報と、記者の個人的な意見を見分けることができれば、あなたは情報の本質を理解することができます。これは、まるで「真実の中に潜む嘘を見破る」ようなスリルを伴います。"
+   },
+   {
+    "day": 5,
+    "title": "何のために考えるのか",
+    "text": "何のために考えるのかを意識することは、まるで迷子になったときに地図を開くようなものです。例えば、「なぜこの情報を信じる必要があるのか？」と自問することから始めます。目的が明確でないと、情報の海で溺れてしまうかもしれません。まるで、目的地を知らずに旅に出るようなものです。"
+   },
+   {
+    "day": 6,
+    "title": "頭の中の「偏見モンスター」",
+    "text": "私たちの思考には、無意識のうちに偏りが生じることがあります。これを認識することは、自分の頭の中に潜む「偏見モンスター」を見つけ出すことに似ています。このモンスターは、あなたの判断を狂わせるかもしれません。"
+   },
+   {
+    "day": 7,
+    "title": "仮説を立てて、確かめる",
+    "text": "何かを信じる前に、自分なりの仮説を立て、それを実際に検証してみるのです。例えば、「この新しい健康法は本当に効果があるのか？」という仮説を立て、実際に試してみることで、その真偽を確かめることができます。"
+   }
+  ]
+ },
+ "books": [
+  {
+   "id": "b01",
+   "title": "マズローの欲求5段階説",
+   "line": "仕事・人 に読む 5 分",
+   "cover": "https://m.media-amazon.com/images/I/81eA42WDChL.jpg",
+   "url": "https://www.amazon.co.jp/dp/B0DGWJ4SFD",
+   "scenes": [
+    "work"
+   ],
+   "asin": "B0DGWJ4SFD",
+   "kindle_unlimited": true
+  },
+  {
+   "id": "b02",
+   "title": "小説の書き方",
+   "line": "創作・深夜 に読む 5 分",
+   "cover": "https://m.media-amazon.com/images/I/8182QdaH0xL.jpg",
+   "url": "https://www.amazon.co.jp/dp/B0DHKG1LQZ",
+   "scenes": [
+    "night"
+   ],
+   "asin": "B0DHKG1LQZ",
+   "kindle_unlimited": true
+  },
+  {
+   "id": "b03",
+   "title": "KT法（ケプナー・トリゴーメソッド）",
+   "line": "考えを整理したいときの 5 分",
+   "cover": "https://m.media-amazon.com/images/I/81hoyXAgl9L.jpg",
+   "url": "https://www.amazon.co.jp/dp/B0DKM849LS",
+   "scenes": [
+    "work"
+   ],
+   "asin": "B0DKM849LS",
+   "kindle_unlimited": true
+  },
+  {
+   "id": "b04",
+   "title": "ECRS（イクルス）分析",
+   "line": "考えを整理したいときの 5 分",
+   "cover": "https://m.media-amazon.com/images/I/81tmYZTaC5L.jpg",
+   "url": "https://www.amazon.co.jp/dp/B0DRHSRSPT",
+   "scenes": [
+    "work"
+   ],
+   "asin": "B0DRHSRSPT",
+   "kindle_unlimited": true
+  },
+  {
+   "id": "b05",
+   "title": "アファメーション",
+   "line": "朝 に読む 5 分",
+   "cover": "https://m.media-amazon.com/images/I/8187ieXSTXL.jpg",
+   "url": "https://www.amazon.co.jp/dp/B0DH8GF7HZ",
+   "scenes": [
+    "morning"
+   ],
+   "asin": "B0DH8GF7HZ",
+   "kindle_unlimited": true
+  },
+  {
+   "id": "b06",
+   "title": "シックスシグマ",
+   "line": "考えを整理したいときの 5 分",
+   "cover": "https://m.media-amazon.com/images/I/816tKJ0bdpL.jpg",
+   "url": "https://www.amazon.co.jp/dp/B0DRHJNFKL",
+   "scenes": [
+    "work"
+   ],
+   "asin": "B0DRHJNFKL",
+   "kindle_unlimited": true
+  },
+  {
+   "id": "b07",
+   "title": "ロジックツリー",
+   "line": "考えを整理したいときの 5 分",
+   "cover": "https://m.media-amazon.com/images/I/81Vm11rFdAL.jpg",
+   "url": "https://www.amazon.co.jp/dp/B0DLNPZ4DG",
+   "scenes": [
+    "work"
+   ],
+   "asin": "B0DLNPZ4DG",
+   "kindle_unlimited": true
+  },
+  {
+   "id": "b08",
+   "title": "思春期の娘と父親との付き合い方",
+   "line": "家族のことを考えたいときの 5 分",
+   "cover": "https://m.media-amazon.com/images/I/91kdot37wuL.jpg",
+   "url": "https://www.amazon.co.jp/dp/B0DYV8J5CM",
+   "scenes": [
+    "holiday"
+   ],
+   "asin": "B0DYV8J5CM",
+   "kindle_unlimited": true
+  },
+  {
+   "id": "b09",
+   "title": "SWOT分析",
+   "line": "考えを整理したいときの 5 分",
+   "cover": "https://m.media-amazon.com/images/I/811nh6qItpL.jpg",
+   "url": "https://www.amazon.co.jp/dp/B0DRGQQM83",
+   "scenes": [
+    "work"
+   ],
+   "asin": "B0DRGQQM83",
+   "kindle_unlimited": true
+  },
+  {
+   "id": "b10",
+   "title": "クリティカルシンキング",
+   "line": "ニュースを読んだあとの 5 分で、情報の見分け方を。",
+   "cover": "https://m.media-amazon.com/images/I/817VOSLqYcL.jpg",
+   "url": "https://www.amazon.co.jp/dp/B0CW1GLVLQ",
+   "scenes": [
+    "morning"
+   ],
+   "asin": "B0CW1GLVLQ",
+   "kindle_unlimited": true,
+   "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b10.json"
+  },
+  {
+   "id": "b11",
+   "title": "SMART目標設定",
+   "line": "月曜・朝 に読む 5 分",
+   "cover": "https://m.media-amazon.com/images/I/81Ocnum3y1L.jpg",
+   "url": "https://www.amazon.co.jp/dp/B0DG47CCX6",
+   "scenes": [
+    "morning"
+   ],
+   "asin": "B0DG47CCX6",
+   "kindle_unlimited": true
+  },
+  {
+   "id": "b12",
+   "title": "PDCA/PDSAサイクル",
+   "line": "考えを整理したいときの 5 分",
+   "cover": "https://m.media-amazon.com/images/I/81IJ2bMMXLL.jpg",
+   "url": "https://www.amazon.co.jp/dp/B0DPWCFK1W",
+   "scenes": [
+    "work"
+   ],
+   "asin": "B0DPWCFK1W",
+   "kindle_unlimited": true
+  },
+  {
+   "id": "b13",
+   "title": "なぜなぜ分析",
+   "line": "考えを整理したいときの 5 分",
+   "cover": "https://m.media-amazon.com/images/I/81LMFlYbXaL.jpg",
+   "url": "https://www.amazon.co.jp/dp/B0DL28Z8WH",
+   "scenes": [
+    "work"
+   ],
+   "asin": "B0DL28Z8WH",
+   "kindle_unlimited": true
+  },
+  {
+   "id": "b14",
+   "title": "フィードバックの活用",
+   "line": "仕事 に読む 5 分",
+   "cover": "https://m.media-amazon.com/images/I/81bsVvVkmpL.jpg",
+   "url": "https://www.amazon.co.jp/dp/B0DG4YCTH2",
+   "scenes": [
+    "work"
+   ],
+   "asin": "B0DG4YCTH2",
+   "kindle_unlimited": true
+  },
+  {
+   "id": "b15",
+   "title": "政治思想における左翼と右翼とリベラルの違いとは？",
+   "line": "ニュースの背景を知りたいときの 5 分",
+   "cover": "https://m.media-amazon.com/images/I/81iTOox1MpL.jpg",
+   "url": "https://www.amazon.co.jp/dp/B0DHB3CTNS",
+   "scenes": [
+    "holiday"
+   ],
+   "asin": "B0DHB3CTNS",
+   "kindle_unlimited": true
+  },
+  {
+   "id": "b16",
+   "title": "「努力」が苦手な人が克服する方法",
+   "line": "夜・休日 に読む 5 分",
+   "cover": "https://m.media-amazon.com/images/I/81M5vVlKjWL.jpg",
+   "url": "https://www.amazon.co.jp/dp/B0DHJCHR5F",
+   "scenes": [
+    "night",
+    "holiday"
+   ],
+   "asin": "B0DHJCHR5F",
+   "kindle_unlimited": true
+  },
+  {
+   "id": "b17",
+   "title": "サウナで整える方法",
+   "line": "休日 に読む 5 分",
+   "cover": "https://m.media-amazon.com/images/I/81f39Z8+0FL.jpg",
+   "url": "https://www.amazon.co.jp/dp/B0DKB4VMJ4",
+   "scenes": [
+    "holiday"
+   ],
+   "asin": "B0DKB4VMJ4",
+   "kindle_unlimited": true
+  },
+  {
+   "id": "b18",
+   "title": "漫画原作者への道",
+   "line": "創作 に読む 5 分",
+   "cover": "https://m.media-amazon.com/images/I/91R5MsQe29L.jpg",
+   "url": "https://www.amazon.co.jp/dp/B0DGGCBYBT",
+   "scenes": [
+    "holiday"
+   ],
+   "asin": "B0DGGCBYBT",
+   "kindle_unlimited": true
+  },
+  {
+   "id": "b19",
+   "title": "セルフコンパッション",
+   "line": "夜 に読む 5 分",
+   "cover": "https://m.media-amazon.com/images/I/81mCK6qkoWL.jpg",
+   "url": "https://www.amazon.co.jp/dp/B0DG4RPPMF",
+   "scenes": [
+    "night"
+   ],
+   "asin": "B0DG4RPPMF",
+   "kindle_unlimited": true
+  },
+  {
+   "id": "b20",
+   "title": "デザイン思考",
+   "line": "考えを整理したいときの 5 分",
+   "cover": "https://m.media-amazon.com/images/I/91J+wzDyqcL.jpg",
+   "url": "https://www.amazon.co.jp/dp/B0DFLY3PSH",
+   "scenes": [
+    "work"
+   ],
+   "asin": "B0DFLY3PSH",
+   "kindle_unlimited": true
+  },
+  {
+   "id": "b21",
+   "title": "アンガーマネジメント",
+   "line": "帰りの電車 に読む 5 分",
+   "cover": "https://m.media-amazon.com/images/I/817f+sAYHqL.jpg",
+   "url": "https://www.amazon.co.jp/dp/B0DFFQJLY8",
+   "scenes": [
+    "commute"
+   ],
+   "asin": "B0DFFQJLY8",
+   "kindle_unlimited": true
+  },
+  {
+   "id": "b22",
+   "title": "シンプルライフの実践",
+   "line": "休日・暮らし に読む 5 分",
+   "cover": "https://m.media-amazon.com/images/I/818t5szcBmL.jpg",
+   "url": "https://www.amazon.co.jp/dp/B0DGCRFCVS",
+   "scenes": [
+    "holiday"
+   ],
+   "asin": "B0DGCRFCVS",
+   "kindle_unlimited": true
+  },
+  {
+   "id": "b23",
+   "title": "デジタルデトックス",
+   "line": "画面を見ない時間 に読む 5 分",
+   "cover": "https://m.media-amazon.com/images/I/81qloHnbU1L.jpg",
+   "url": "https://www.amazon.co.jp/dp/B0DG93PDKB",
+   "scenes": [
+    "holiday"
+   ],
+   "asin": "B0DG93PDKB",
+   "kindle_unlimited": true
+  },
+  {
+   "id": "b24",
+   "title": "時間管理のテクニック",
+   "line": "通勤・すきま時間 に読む 5 分",
+   "cover": "https://m.media-amazon.com/images/I/81t8vozFC0L.jpg",
+   "url": "https://www.amazon.co.jp/dp/B0DFCXHYV8",
+   "scenes": [
+    "commute"
+   ],
+   "asin": "B0DFCXHYV8",
+   "kindle_unlimited": true
+  },
+  {
+   "id": "b25",
+   "title": "自己肯定感を高める楽曲の作り方（作曲編）",
+   "line": "曲のランキングと に読む 5 分",
+   "cover": "https://m.media-amazon.com/images/I/81WdaPV4rCL.jpg",
+   "url": "https://www.amazon.co.jp/dp/B0DK6RFGW1",
+   "scenes": [
+    "holiday"
+   ],
+   "asin": "B0DK6RFGW1",
+   "kindle_unlimited": true
+  },
+  {
+   "id": "b26",
+   "title": "自己肯定感を高める楽曲の作り方（作詞編）",
+   "line": "曲のランキングと に読む 5 分",
+   "cover": "https://m.media-amazon.com/images/I/81nCgjfRiRL.jpg",
+   "url": "https://www.amazon.co.jp/dp/B0DK55QXTY",
+   "scenes": [
+    "holiday"
+   ],
+   "asin": "B0DK55QXTY",
+   "kindle_unlimited": true
+  },
+  {
+   "id": "b27",
+   "title": "マインドフルネス",
+   "line": "朝・寝る前 に読む 5 分",
+   "cover": "https://m.media-amazon.com/images/I/81aJANuWBfL.jpg",
+   "url": "https://www.amazon.co.jp/dp/B0DF6K5B49",
+   "scenes": [
+    "morning",
+    "night"
+   ],
+   "asin": "B0DF6K5B49",
+   "kindle_unlimited": true
+  },
+  {
+   "id": "b28",
+   "title": "脂肪だけを落とすダイエット",
+   "line": "からだを整えたいときの 5 分",
+   "cover": "https://m.media-amazon.com/images/I/81Lnytny0mL.jpg",
+   "url": "https://www.amazon.co.jp/dp/B0DSJL9WF2",
+   "scenes": [
+    "holiday"
+   ],
+   "asin": "B0DSJL9WF2",
+   "kindle_unlimited": true
+  },
+  {
+   "id": "b29",
+   "title": "イノベーション思考術",
+   "line": "世界のニュースのあと に読む 5 分",
+   "cover": "https://m.media-amazon.com/images/I/81VnxKDUfXL.jpg",
+   "url": "https://www.amazon.co.jp/dp/B0DSC8477T",
+   "scenes": [
+    "morning"
+   ],
+   "asin": "B0DSC8477T",
+   "kindle_unlimited": true
+  },
+  {
+   "id": "b30",
+   "title": "リセットの習慣",
+   "line": "朝と夜の切りかえ に読む 5 分",
+   "cover": "https://m.media-amazon.com/images/I/81upgCo0-RL.jpg",
+   "url": "https://www.amazon.co.jp/dp/B0DS9FVRBC",
+   "scenes": [
+    "morning",
+    "night"
+   ],
+   "asin": "B0DS9FVRBC",
+   "kindle_unlimited": true
+  },
+  {
+   "id": "b31",
+   "title": "ビジネスパーソンのための心をつかむ話し方",
+   "line": "ラジオのトーク・会議の前 に読む 5 分",
+   "cover": "https://m.media-amazon.com/images/I/81m1NNG47gL.jpg",
+   "url": "https://www.amazon.co.jp/dp/B0DS9FC7F9",
+   "scenes": [
+    "holiday"
+   ],
+   "asin": "B0DS9FC7F9",
+   "kindle_unlimited": true
+  },
+  {
+   "id": "b32",
+   "title": "5分瞑想で心を整える毎日のリセット法",
+   "line": "朝・寝る前 に読む 5 分",
+   "cover": "https://m.media-amazon.com/images/I/818RPTJy6ZL.jpg",
+   "url": "https://www.amazon.co.jp/dp/B0DJTYD3C2",
+   "scenes": [
+    "morning",
+    "night"
+   ],
+   "asin": "B0DJTYD3C2",
+   "kindle_unlimited": true
+  },
+  {
+   "id": "b33",
+   "title": "「心の中で言い訳する人」から脱却する方法",
+   "line": "夜 に読む 5 分",
+   "cover": "https://m.media-amazon.com/images/I/818Thco+7oL.jpg",
+   "url": "https://www.amazon.co.jp/dp/B0DHR4RP1H",
+   "scenes": [
+    "night"
+   ],
+   "asin": "B0DHR4RP1H",
+   "kindle_unlimited": true
+  },
+  {
+   "id": "b34",
+   "title": "たばこをやめる方法",
+   "line": "からだを整えたいときの 5 分",
+   "cover": "https://m.media-amazon.com/images/I/818p6sJ1zzL.jpg",
+   "url": "https://www.amazon.co.jp/dp/B0DH1SN81T",
+   "scenes": [
+    "holiday"
+   ],
+   "asin": "B0DH1SN81T",
+   "kindle_unlimited": true
+  },
+  {
+   "id": "b35",
+   "title": "声優デビューへの道",
+   "line": "ラジオ・声 に読む 5 分",
+   "cover": "https://m.media-amazon.com/images/I/81IBFIM8-eL.jpg",
+   "url": "https://www.amazon.co.jp/dp/B0DGWNXF9W",
+   "scenes": [
+    "holiday"
+   ],
+   "asin": "B0DGWNXF9W",
+   "kindle_unlimited": true
+  },
+  {
+   "id": "b36",
+   "title": "フィナンシャルリテラシーの向上",
+   "line": "経済のニュースのあと に読む 5 分",
+   "cover": "https://m.media-amazon.com/images/I/81+JmqBeB+L.jpg",
+   "url": "https://www.amazon.co.jp/dp/B0DGF81KZ7",
+   "scenes": [
+    "morning"
+   ],
+   "asin": "B0DGF81KZ7",
+   "kindle_unlimited": true
+  },
+  {
+   "id": "b37",
+   "title": "パーソナルブランディング",
+   "line": "仕事・発信 に読む 5 分",
+   "cover": "https://m.media-amazon.com/images/I/815HXmJ26RL.jpg",
+   "url": "https://www.amazon.co.jp/dp/B0DG4X35QP",
+   "scenes": [
+    "work"
+   ],
+   "asin": "B0DG4X35QP",
+   "kindle_unlimited": true
+  },
+  {
+   "id": "b38",
+   "title": "「ノー」と言う勇気",
+   "line": "仕事終わり に読む 5 分",
+   "cover": "https://m.media-amazon.com/images/I/81bWT-6r8-L.jpg",
+   "url": "https://www.amazon.co.jp/dp/B0DFCS11MQ",
+   "scenes": [
+    "work"
+   ],
+   "asin": "B0DFCS11MQ",
+   "kindle_unlimited": true
+  },
+  {
+   "id": "b39",
+   "title": "No.52 先延ばし癖を手なずける５つの方法",
+   "line": "夜・休日 に読む 5 分",
+   "cover": "https://m.media-amazon.com/images/I/81XlYhD64BL.jpg",
+   "url": "https://www.amazon.co.jp/dp/B0GV3MDWC7",
+   "scenes": [
+    "night",
+    "holiday"
+   ],
+   "asin": "B0GV3MDWC7",
+   "kindle_unlimited": true
+  },
+  {
+   "id": "b40",
+   "title": "No.51 １日が２８時間になる ５つの分析習慣",
+   "line": "通勤・朝のニュースのあと に読む 5 分",
+   "cover": "https://m.media-amazon.com/images/I/81gfl7+vyyL.jpg",
+   "url": "https://www.amazon.co.jp/dp/B0GTMRM839",
+   "scenes": [
+    "morning",
+    "commute"
+   ],
+   "asin": "B0GTMRM839",
+   "kindle_unlimited": true
+  },
+  {
+   "id": "b41",
+   "title": "No.53 「あの人と比べてしまう自分」を５分で整える技術",
+   "line": "夜・SNSのあと に読む 5 分",
+   "cover": "https://m.media-amazon.com/images/I/81jK1rk0BCL.jpg",
+   "url": "https://www.amazon.co.jp/dp/B0GHZSMKVV",
+   "scenes": [
+    "night"
+   ],
+   "asin": "B0GHZSMKVV",
+   "kindle_unlimited": true
+  },
+  {
+   "id": "b42",
+   "title": "充実睡眠 - 睡眠障害改善への道",
+   "line": "からだを整えたいときの 5 分",
+   "cover": "https://m.media-amazon.com/images/I/816VHKkGbsL.jpg",
+   "url": "https://www.amazon.co.jp/dp/B0F1FP293M",
+   "scenes": [
+    "holiday"
+   ],
+   "asin": "B0F1FP293M",
+   "kindle_unlimited": true
+  },
+  {
+   "id": "b43",
+   "title": "思春期の娘と母親との付き合い方",
+   "line": "家族のことを考えたいときの 5 分",
+   "cover": "https://m.media-amazon.com/images/I/81QpfSMA3NL.jpg",
+   "url": "https://www.amazon.co.jp/dp/B0DYYYXKD4",
+   "scenes": [
+    "holiday"
+   ],
+   "asin": "B0DYYYXKD4",
+   "kindle_unlimited": true
+  },
+  {
+   "id": "b44",
+   "title": "至高のご飯炊き術",
+   "line": "家事のながら に読む 5 分",
+   "cover": "https://m.media-amazon.com/images/I/814Gsk3Iq2L.jpg",
+   "url": "https://www.amazon.co.jp/dp/B0DWMTQT82",
+   "scenes": [
+    "holiday"
+   ],
+   "asin": "B0DWMTQT82",
+   "kindle_unlimited": true
+  },
+  {
+   "id": "b45",
+   "title": "キレイになる!5分美容習慣のすすめ",
+   "line": "朝 に読む 5 分",
+   "cover": "https://m.media-amazon.com/images/I/81Bm7OZJCfL.jpg",
+   "url": "https://www.amazon.co.jp/dp/B0DKCWRJP6",
+   "scenes": [
+    "morning"
+   ],
+   "asin": "B0DKCWRJP6",
+   "kindle_unlimited": true
+  },
+  {
+   "id": "b46",
+   "title": "脱・人見知り",
+   "line": "人づきあい に読む 5 分",
+   "cover": "https://m.media-amazon.com/images/I/817LN2CcJdL.jpg",
+   "url": "https://www.amazon.co.jp/dp/B0DJJDF85Q",
+   "scenes": [
+    "holiday"
+   ],
+   "asin": "B0DJJDF85Q",
+   "kindle_unlimited": true
+  },
+  {
+   "id": "b47",
+   "title": "雑談力",
+   "line": "ラジオのトーク・会議の前 に読む 5 分",
+   "cover": "https://m.media-amazon.com/images/I/81V7GYUD8pL.jpg",
+   "url": "https://www.amazon.co.jp/dp/B0DHFR1BPM",
+   "scenes": [
+    "holiday"
+   ],
+   "asin": "B0DHFR1BPM",
+   "kindle_unlimited": true
+  },
+  {
+   "id": "b48",
+   "title": "世界から見た日本の政治の評価について",
+   "line": "ニュースの背景を知りたいときの 5 分",
+   "cover": "https://m.media-amazon.com/images/I/81UzIMlvgjL.jpg",
+   "url": "https://www.amazon.co.jp/dp/B0DH8GXLDQ",
+   "scenes": [
+    "holiday"
+   ],
+   "asin": "B0DH8GXLDQ",
+   "kindle_unlimited": true
+  },
+  {
+   "id": "b49",
+   "title": "自己啓発って何？",
+   "line": "入口の1冊 に読む 5 分",
+   "cover": "https://m.media-amazon.com/images/I/81hP2djI4gL.jpg",
+   "url": "https://www.amazon.co.jp/dp/B0DH666KPK",
+   "scenes": [
+    "holiday"
+   ],
+   "asin": "B0DH666KPK",
+   "kindle_unlimited": true
+  },
+  {
+   "id": "b50",
+   "title": "詐欺にあわないための知恵",
+   "line": "情報の見分け方 に読む 5 分",
+   "cover": "https://m.media-amazon.com/images/I/81SzWjdFwWL.jpg",
+   "url": "https://www.amazon.co.jp/dp/B0DH53TCQ2",
+   "scenes": [
+    "holiday"
+   ],
+   "asin": "B0DH53TCQ2",
+   "kindle_unlimited": true
+  },
+  {
+   "id": "b51",
+   "title": "社会問題改善:未婚化",
+   "line": "社会 に読む 5 分",
+   "cover": "https://m.media-amazon.com/images/I/81XvafkA0LL.jpg",
+   "url": "https://www.amazon.co.jp/dp/B0DH1VTWV7",
+   "scenes": [
+    "holiday"
+   ],
+   "asin": "B0DH1VTWV7",
+   "kindle_unlimited": true
+  },
+  {
+   "id": "b52",
+   "title": "成功する転職活動",
+   "line": "転職のニュースのあと に読む 5 分",
+   "cover": "https://m.media-amazon.com/images/I/810pQSpM21L.jpg",
+   "url": "https://www.amazon.co.jp/dp/B0DGWS5PDB",
+   "scenes": [
+    "morning"
+   ],
+   "asin": "B0DGWS5PDB",
+   "kindle_unlimited": true
+  },
+  {
+   "id": "b53",
+   "title": "メンタルヘルスの理解と管理",
+   "line": "からだを整えたいときの 5 分",
+   "cover": "https://m.media-amazon.com/images/I/81RZ9YtaZNL.jpg",
+   "url": "https://www.amazon.co.jp/dp/B0CW1GBN5P",
+   "scenes": [
+    "holiday"
+   ],
+   "asin": "B0CW1GBN5P",
+   "kindle_unlimited": true
+  }
+ ]
+}
