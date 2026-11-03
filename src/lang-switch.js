@@ -3,9 +3,14 @@
 // 言語の選び（この a と、PC の幅の言語の選びの a）を押したら localStorage に覚え、次からは自動で移さない（src/lang-redirect.js）。
 const BASE = '/aura/';
 const EN = '/aura/en/';
+const ES = '/aura/es/';
 
 function counterpart() {
   const p = location.pathname;
+  // スペイン語の頁は、日本語の同じ頁へ（スペイン語に無い頁は日本語のまま出る）
+  if (p === '/aura/es' || p.startsWith(ES)) {
+    return {onEn: true, href: BASE + (p === '/aura/es' ? '' : p.slice(ES.length)) + location.hash};
+  }
   const onEn = p === '/aura/en' || p.startsWith(EN);
   const rest = p === '/aura/en' ? '' : onEn ? p.slice(EN.length) : p.slice(BASE.length);
   return {onEn, href: (onEn ? BASE : EN) + rest + location.hash};
@@ -41,7 +46,7 @@ if (typeof document !== 'undefined') {
       }
       // PC の幅の言語の選び（Docusaurus の localeDropdown の a には lang が付く）
       const lang = a.getAttribute('lang');
-      if (a.closest('.dropdown__menu') && (lang === 'ja' || lang === 'en')) remember(lang);
+      if (a.closest('.dropdown__menu') && (lang === 'ja' || lang === 'en' || lang === 'es')) remember(lang);
     },
     true,
   );

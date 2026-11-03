@@ -1,0 +1,10 @@
+{
+  "version.label": {
+    "message": "Siguiente",
+    "description": "The label for version current"
+  },
+  "sidebar.main.category.使い方": {
+    "message": "Cómo usar",
+    "description": "The label for category '使い方' in sidebar 'main'"
+  }
+}
