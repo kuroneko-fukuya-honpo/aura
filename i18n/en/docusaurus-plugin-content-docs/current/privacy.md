@@ -7,7 +7,7 @@ sidebar_position: 80
 
 # Privacy Policy
 
-Last updated: 2026-11-03 / Applies to: AURA 1.0.0 (Android) and AURA for G2 0.98.x (plugin for Even G2)
+Last updated: 2026-11-05 / Applies to: AURA 1.0.0 (Android) and AURA for G2 0.98.x (plugin for Even G2)
 
 This is an English translation of the Japanese privacy policy. If the two differ, the Japanese version prevails.
 AURA ("the app") is an RSS reader provided by **Black Cat Fortune Works (Kuroneko Fukuya)** ("we").
@@ -71,6 +71,10 @@ The app communicates with **the parties needed for you to read**, with <strong>a
 | Sources you have added (RSS / Atom URLs) | When fetching | Getting the article list |
 | `news.google.com` | When you have keyword feeds | Getting the search result feeds and resolving articles' actual URLs |
 | `note.com`, `zenn.dev`, `qiita.com`, `medium.com`, `dev.to`, `hn.algolia.com` | When you choose that site as a place to search for a keyword feed (off by default) | Querying with the keyword and getting the search results |
+| `news.ceek.jp` (Ceek.jp News) | When Japanese-edition keyword feeds are refreshed (at most once every 10 minutes per keyword) | Querying with the keyword and getting the search result feed (to learn articles' original URLs) |
+| Sites that published keyword feed articles (their RSS / Atom feeds, and their top page to find those feeds) | When keyword feeds are refreshed (at most once an hour per site) | To learn articles' original URLs. Articles from these feeds are not added to your list |
+| `www.bing.com` (Bing News) | When keyword feeds are refreshed, only while our relay server's settings say to use it (not used by default) | Querying with the keyword and getting the search result feed (to learn articles' original URLs) |
+| Our relay server (search source settings) | When keyword feeds are refreshed (at most once every 6 hours) | Checking the setting (a public value) for whether to use Bing News above. Nothing is sent from your device |
 | Sites that publish the articles | When the setting to keep full text is on, and when you open an article | Getting the article text |
 | Servers hosting images included in articles | When showing or saving images | Getting images |
 | Providers of embeds (YouTube, X) | When you tap an embed in the article text | Showing the embed |
@@ -289,6 +293,7 @@ The content of the articles shown depends on the sources you have added.
 
 If we change the content, we will update this page and revise the last updated date.
 
+- 2026-11-05: In the table of destinations under "3.", added Ceek.jp News, the RSS / Atom feeds of the sites that published the articles, and Bing News (only while our relay server's settings say to use it), used to learn the original URLs of keyword feed articles, and a row for our relay server for checking that setting
 - 2026-11-03: In "Usage and crash reports" under "3.", added that the book's ID number is sent when you open a recommendation card or a sample reading of the author's books, and added the list of the author's book recommendations to the row for our official website in the table of destinations
 - 2026-10-30: Added "Videos on this website" at the end of "3." (YouTube is loaded only when you tap play)
 - 2026-10-30: In the introduction, "2.", and "3.", added that even with AURA Plus, a rewarded ad is shown for the 4th or later AURA Brief · Audio episode of the day and for a long version (and that the ad SDK communicates at that time). Added "Translation in World view and on-device AI" and "Shared dictionary of readings and translations" to "3.", and added rows for the places to search for keyword feeds, embed providers, ML Kit translation, the shared dictionary, and the distributors of the "AI voice" data, plus in-app updates for Google Play, to the table of destinations. Revised what is sent in "AI scripts" (the length of article text, the program name and the two hosts' names, the script language, and distinctive terms from articles whose sources refuse use by AI) and the path for turning off online speech synthesis. Added the "AI voice" data to "4." and revised how many audio briefing episodes are kept. Revised what our relay server handles in "1." and "6.", and added the foreground service (media playback) to "7." Changed the version of AURA for G2 to 0.98.0

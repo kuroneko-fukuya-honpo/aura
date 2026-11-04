@@ -7,7 +7,7 @@ sidebar_position: 80
 
 # Política de privacidad
 
-Última actualización: 2026-11-03 / Se aplica a: AURA 1.0.0 (Android) y AURA for G2 0.98.x (plugin para Even G2)
+Última actualización: 2026-11-05 / Se aplica a: AURA 1.0.0 (Android) y AURA for G2 0.98.x (plugin para Even G2)
 
 Esta es una traducción al español de la política de privacidad en japonés. Si ambas difieren, prevalece la versión en japonés.
 AURA («la app») es un lector de RSS ofrecido por **Black Cat Fortune Works (Kuroneko Fukuya)** («nosotros»).
@@ -71,6 +71,10 @@ La app se comunica con **las partes necesarias para que puedas leer**, con <stro
 | Fuentes que has agregado (URL de RSS / Atom) | Al obtener | Obtener la lista de artículos |
 | `news.google.com` | Cuando tienes suscripciones por palabra clave | Obtener las suscripciones de resultados de búsqueda y resolver las URL reales de los artículos |
 | `note.com`, `zenn.dev`, `qiita.com`, `medium.com`, `dev.to`, `hn.algolia.com` | Cuando eliges ese sitio como lugar donde buscar una suscripción por palabra clave (desactivado por defecto) | Consultar con la palabra clave y obtener los resultados de búsqueda |
+| `news.ceek.jp` (Ceek.jp News) | Cuando se actualizan las suscripciones por palabra clave de la edición en japonés (como máximo una vez cada 10 minutos por palabra clave) | Consultar con la palabra clave y obtener la suscripción de resultados de búsqueda (para conocer la URL original de los artículos) |
+| Sitios que publicaron los artículos de las suscripciones por palabra clave (sus suscripciones RSS / Atom y su página principal para encontrarlas) | Cuando se actualizan las suscripciones por palabra clave (como máximo una vez por hora por sitio) | Conocer la URL original de los artículos. Los artículos de estas suscripciones no se agregan a tu lista |
+| `www.bing.com` (Bing News) | Cuando se actualizan las suscripciones por palabra clave, solo mientras la configuración de nuestro servidor de retransmisión indique usarlo (no se usa por defecto) | Consultar con la palabra clave y obtener la suscripción de resultados de búsqueda (para conocer la URL original de los artículos) |
+| Nuestro servidor de retransmisión (configuración de los lugares de búsqueda) | Cuando se actualizan las suscripciones por palabra clave (como máximo una vez cada 6 horas) | Comprobar la configuración (un valor público) que indica si se usa Bing News. No se envía nada desde tu dispositivo |
 | Sitios que publican los artículos | Cuando la opción de conservar el texto completo está activada, y cuando abres un artículo | Obtener el texto del artículo |
 | Servidores que alojan las imágenes incluidas en los artículos | Al mostrar o guardar imágenes | Obtener imágenes |
 | Proveedores de contenido incrustado (YouTube, X) | Cuando tocas un contenido incrustado en el texto del artículo | Mostrar el contenido incrustado |
@@ -289,6 +293,7 @@ El contenido de los artículos que se muestran depende de las fuentes que hayas 
 
 Si cambiamos el contenido, actualizaremos esta página y revisaremos la fecha de última actualización.
 
+- 2026-11-05: En la tabla de destinos del apartado 3, se agregaron Ceek.jp News, las suscripciones RSS / Atom de los sitios que publicaron los artículos y Bing News (solo mientras la configuración de nuestro servidor de retransmisión indique usarlo), que sirven para conocer la URL original de los artículos de las suscripciones por palabra clave, y una fila para nuestro servidor de retransmisión que comprueba esa configuración
 - 2026-11-03: En «Informes de uso y de fallas» en el apartado 3, se agregó que el número de ID del libro se envía cuando abres una tarjeta de recomendación o una lectura de muestra de los libros del autor, y se agregó la lista de recomendaciones de libros del autor a la fila de nuestro sitio web oficial en la tabla de destinos
 - 2026-10-30: Se agregó «Videos de este sitio web» al final del apartado 3 (YouTube se carga solo cuando tocas reproducir)
 - 2026-10-30: En la introducción, en «2.» y en «3.», se agregó que, incluso con AURA Plus, se muestra un anuncio con recompensa para el 4.º episodio o posteriores del día de AURA Brief · Audio y para una versión larga (y que el SDK de anuncios se comunica en ese momento). Se agregaron «Traducción en la Vista mundial e IA en el dispositivo» y «Diccionario compartido de lecturas y traducciones» a «3.», y se agregaron a la tabla de destinos filas para los lugares donde buscar suscripciones por palabra clave, los proveedores de contenido incrustado, la traducción de ML Kit, el diccionario compartido y los distribuidores de los datos de «voz de IA», además de las actualizaciones dentro de la app de Google Play. Se revisó lo que se envía en «Guiones con IA» (la longitud del texto de los artículos, el nombre del programa y los nombres de los dos presentadores, el idioma del guion y los términos distintivos de artículos cuyas fuentes rechazan el uso por IA) y la ruta para desactivar la síntesis de voz en línea. Se agregaron los datos de «voz de IA» a «4.» y se revisó cuántos episodios del resumen en audio se conservan. Se revisó lo que maneja nuestro servidor de retransmisión en «1.» y «6.», y se agregó el servicio en primer plano (reproducción de medios) a «7.». Se cambió la versión de AURA for G2 a 0.98.0
