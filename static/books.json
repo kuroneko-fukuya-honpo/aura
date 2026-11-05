@@ -8,40 +8,41 @@
   "sections": [
    {
     "day": 1,
-    "title": "「迷路の出口」は、意外と近い",
-    "text": "そんな時、私たちはつい、目の前の情報を鵜呑みにしてしまいがちです。しかし、ここで一歩立ち止まり、情報をじっくりと吟味することができれば、迷路の出口は意外と近くにあるかもしれません。この書籍では、そんな迷路を抜け出すための「クリティカルシンキング」をご紹介します。"
+    "title": "はじめに",
+    "text": "人生は時に、まるで迷路のように複雑で、出口が見えないことがあります。\nそんな時、私たちはつい、目の前の情報を鵜呑みにしてしまいがちです。しかし、ここで一歩立ち止まり、情報をじっくりと吟味することができれば、迷路の出口は意外と近くにあるかもしれません。"
    },
    {
     "day": 2,
-    "title": "「本当に？」が第一歩",
-    "text": "例えば、SNSでシェアされた「このサプリで10キロ痩せました！」という広告を見たとき、あなたはどう反応しますか？そのまま信じてしまうのか、それとも「本当に？」と疑問を持つのか。後者の反応こそが、クリティカルシンキングの第一歩です。"
+    "title": "はじめに",
+    "text": "この書籍では、そんな迷路を抜け出すための「クリティカルシンキング」をご紹介します。\nクリティカルシンキングとは、情報をただ受け入れるのではなく、疑問を持ち、批判的に考える力です。これを身につければ、たとえ「この情報、信じていいの？」"
    },
    {
     "day": 3,
-    "title": "他人の靴を履いてみる",
-    "text": "次に、クリティカルシンキングは「多角的な視点」を持つことを求めます。例えば、友人が「新しいレストランは最高だった！」と言ったとき、あなたはその友人の味覚を信じるか、それとも他のレビューも確認するか。ここで重要なのは、他の視点を取り入れることで、自分の判断をより正確にすることです。"
+    "title": "はじめに",
+    "text": "と疑念が湧くような状況でも、冷静に分析し、真実を見極めることができるようになります。まるで探偵のように、証拠を集め、推理を働かせるのです。\n本書では、クリティカルシンキングの基本から実践方法、そして世の中で実際に役立った事例までを、ユーモアを交えながら解説していきます。"
    },
    {
     "day": 4,
-    "title": "事実と意見を分ける",
-    "text": "さらに、クリティカルシンキングは「事実と意見を区別する」能力を養います。ニュース記事を読む際、事実に基づいた情報と、記者の個人的な意見を見分けることができれば、あなたは情報の本質を理解することができます。これは、まるで「真実の中に潜む嘘を見破る」ようなスリルを伴います。"
+    "title": "はじめに",
+    "text": "さあ、情報の海を泳ぎ切るための知恵を手に入れましょう。あなたの思考が、これまで以上に鋭くなることをお約束します。\nさあ、迷路の出口はすぐそこです。\nクリティカルシンキングとは何か。\nこれは単なる「批判的に考える」ことではありません。"
    },
    {
     "day": 5,
-    "title": "何のために考えるのか",
-    "text": "何のために考えるのかを意識することは、まるで迷子になったときに地図を開くようなものです。例えば、「なぜこの情報を信じる必要があるのか？」と自問することから始めます。目的が明確でないと、情報の海で溺れてしまうかもしれません。まるで、目的地を知らずに旅に出るようなものです。"
+    "title": "第１章: クリティカルシンキングとは",
+    "text": "むしろ、世の中の情報をただ鵜呑みにするのではなく、まるで名探偵のように冷静に、そして時には皮肉を交えて分析する技術です。情報が溢れる現代社会では、クリティカルシンキングはまさに生存戦略の一つと言えるでしょう。"
    },
    {
     "day": 6,
-    "title": "頭の中の「偏見モンスター」",
-    "text": "私たちの思考には、無意識のうちに偏りが生じることがあります。これを認識することは、自分の頭の中に潜む「偏見モンスター」を見つけ出すことに似ています。このモンスターは、あなたの判断を狂わせるかもしれません。"
+    "title": "第１章: クリティカルシンキングとは",
+    "text": "まず、クリティカルシンキングの基本は「疑うこと」です。\n例えば、SNSでシェアされた「このサプリで10キロ痩せました！」という広告を見たとき、あなたはどう反応しますか？そのまま信じてしまうのか、それとも「本当に？」と疑問を持つのか。"
    },
    {
     "day": 7,
-    "title": "仮説を立てて、確かめる",
-    "text": "何かを信じる前に、自分なりの仮説を立て、それを実際に検証してみるのです。例えば、「この新しい健康法は本当に効果があるのか？」という仮説を立て、実際に試してみることで、その真偽を確かめることができます。"
+    "title": "第１章: クリティカルシンキングとは",
+    "text": "後者の反応こそが、クリティカルシンキングの第一歩です。情報の裏にある意図や、発信者の信頼性を考えることが重要です。\n次に、クリティカルシンキングは「多角的な視点」を持つことを求めます。例えば、友人が「新しいレストランは最高だった！」"
    }
-  ]
+  ],
+  "note": "7 日分は、試し読みを頭から順に 7 つに分けたもの（切れ端ではない）。読む画面では試し読みを全部出す"
  },
  "books": [
   {
@@ -56,7 +57,11 @@
    "asin": "B0DGWJ4SFD",
    "kindle_unlimited": true,
    "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b01.json",
-   "sample_percent": 8.8
+   "sample_percent": 8.8,
+   "author": "五分読光輝",
+   "publisher": "黒猫福家本舗",
+   "hook": "人間の行動を理解し、モチベーションを高める。",
+   "why": "ニュースの合間の 5 分に。人がなぜ動くのかを、5段階の地図で見渡せます"
   },
   {
    "id": "b02",
@@ -70,7 +75,11 @@
    "asin": "B0DHKG1LQZ",
    "kindle_unlimited": true,
    "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b02.json",
-   "sample_percent": 8.8
+   "sample_percent": 8.8,
+   "author": "五分読光輝",
+   "publisher": "黒猫福家本舗",
+   "hook": "人生は短い。",
+   "why": "ニュースの合間の 5 分に。書き出しで止まる人に、物語を前へ進める型をお届けします"
   },
   {
    "id": "b03",
@@ -84,7 +93,11 @@
    "asin": "B0DKM849LS",
    "kindle_unlimited": true,
    "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b03.json",
-   "sample_percent": 9.0
+   "sample_percent": 9.0,
+   "author": "五分読光輝",
+   "publisher": "黒猫福家本舗",
+   "hook": "皆さん、こんにちは。",
+   "why": "ニュースの合間の 5 分に。迷ったときの決め方を、4つの手順で整理できます"
   },
   {
    "id": "b04",
@@ -98,7 +111,11 @@
    "asin": "B0DRHSRSPT",
    "kindle_unlimited": true,
    "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b04.json",
-   "sample_percent": 8.7
+   "sample_percent": 8.7,
+   "author": "五分読光輝",
+   "publisher": "黒猫福家本舗",
+   "hook": "ビジネスの世界では、常に効率化と生産性向上が求められています。",
+   "why": "ニュースの合間の 5 分に。仕事のむだを「やめる・まとめる・入れ替える・簡単にする」で見直せます"
   },
   {
    "id": "b05",
@@ -112,7 +129,11 @@
    "asin": "B0DH8GF7HZ",
    "kindle_unlimited": true,
    "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b05.json",
-   "sample_percent": 9.0
+   "sample_percent": 9.0,
+   "author": "五分読光輝",
+   "publisher": "黒猫福家本舗",
+   "hook": "人生は、時として残酷な冗談のようです。",
+   "why": "ニュースの合間の 5 分に。自分にかける言葉を変えて、気持ちを前向きに整えます"
   },
   {
    "id": "b06",
@@ -126,7 +147,11 @@
    "asin": "B0DRHJNFKL",
    "kindle_unlimited": true,
    "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b06.json",
-   "sample_percent": 8.9
+   "sample_percent": 8.9,
+   "author": "五分読光輝",
+   "publisher": "黒猫福家本舗",
+   "hook": "シックスシグマは、単なる統計ツールの集合ではありません。",
+   "why": "ニュースの合間の 5 分に。数字で品質を良くしていく考え方を、身近な例でつかめます"
   },
   {
    "id": "b07",
@@ -140,7 +165,11 @@
    "asin": "B0DLNPZ4DG",
    "kindle_unlimited": true,
    "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b07.json",
-   "sample_percent": 9.0
+   "sample_percent": 9.0,
+   "author": "五分読光輝",
+   "publisher": "黒猫福家本舗",
+   "hook": "皆さん、こんにちは。",
+   "why": "ニュースの合間の 5 分に。大きな問題を枝分かれさせて、手をつける所を見つけます"
   },
   {
    "id": "b08",
@@ -154,7 +183,11 @@
    "asin": "B0DYV8J5CM",
    "kindle_unlimited": true,
    "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b08.json",
-   "sample_percent": 8.9
+   "sample_percent": 8.9,
+   "author": "五分読光輝",
+   "publisher": "黒猫福家本舗",
+   "hook": "思春期。",
+   "why": "ニュースの合間の 5 分に。思春期の娘との距離に悩む父親に、関わり方のヒントを"
   },
   {
    "id": "b09",
@@ -168,7 +201,11 @@
    "asin": "B0DRGQQM83",
    "kindle_unlimited": true,
    "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b09.json",
-   "sample_percent": 7.9
+   "sample_percent": 7.9,
+   "author": "五分読光輝",
+   "publisher": "黒猫福家本舗",
+   "hook": "現代のビジネス環境は絶え間なく変化し、新しい競合が次々と生まれる中、自社の強みを客観的に把握し、戦略を柔軟に組み立てる力が求められています。",
+   "why": "ニュースの合間の 5 分に。強み・弱み・機会・脅威の4つで、いまの立ち位置を整理します"
   },
   {
    "id": "b10",
@@ -182,7 +219,11 @@
    "asin": "B0CW1GLVLQ",
    "kindle_unlimited": true,
    "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b10.json",
-   "sample_percent": 8.8
+   "sample_percent": 8.9,
+   "author": "五分読光輝",
+   "publisher": "黒猫福家本舗",
+   "hook": "人生は時に、まるで迷路のように複雑で、出口が見えないことがあります。",
+   "why": "ニュースの合間の 5 分に。ニュースに触れるとき、事実と意見を分ける練習になります"
   },
   {
    "id": "b11",
@@ -196,7 +237,11 @@
    "asin": "B0DG47CCX6",
    "kindle_unlimited": true,
    "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b11.json",
-   "sample_percent": 8.9
+   "sample_percent": 8.9,
+   "author": "五分読光輝",
+   "publisher": "黒猫福家本舗",
+   "hook": "目標設定は、まるでダイエットのようなものです。",
+   "why": "ニュースの合間の 5 分に。目標を「いつか」から「いつまでに何を」に変える書き方です"
   },
   {
    "id": "b12",
@@ -210,7 +255,11 @@
    "asin": "B0DPWCFK1W",
    "kindle_unlimited": true,
    "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b12.json",
-   "sample_percent": 8.8
+   "sample_percent": 8.8,
+   "author": "五分読光輝",
+   "publisher": "黒猫福家本舗",
+   "hook": "ビジネスの世界で「PDCA」という言葉を耳にしない日はないでしょう。",
+   "why": "ニュースの合間の 5 分に。計画・実行・確認・改善を、回し続けるこつをまとめました"
   },
   {
    "id": "b13",
@@ -224,7 +273,11 @@
    "asin": "B0DL28Z8WH",
    "kindle_unlimited": true,
    "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b13.json",
-   "sample_percent": 8.9
+   "sample_percent": 8.9,
+   "author": "五分読光輝",
+   "publisher": "黒猫福家本舗",
+   "hook": "「なぜ」という単純な問いかけが、世界を変える力を秘めているとしたら？",
+   "why": "ニュースの合間の 5 分に。「なぜ」を5回くり返して、本当の原因にたどり着きます"
   },
   {
    "id": "b14",
@@ -238,7 +291,11 @@
    "asin": "B0DG4YCTH2",
    "kindle_unlimited": true,
    "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b14.json",
-   "sample_percent": 8.8
+   "sample_percent": 8.8,
+   "author": "五分読光輝",
+   "publisher": "黒猫福家本舗",
+   "hook": "フィードバックとは、まるで人生のスパイスのようなものです。",
+   "why": "ニュースの合間の 5 分に。言われたことを、次の一歩に変える受け取り方です"
   },
   {
    "id": "b15",
@@ -252,7 +309,11 @@
    "asin": "B0DHB3CTNS",
    "kindle_unlimited": true,
    "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b15.json",
-   "sample_percent": 9.0
+   "sample_percent": 9.0,
+   "author": "五分読光輝",
+   "publisher": "黒猫福家本舗",
+   "hook": "政治の世界は、まるで巨大な人間すごろくのようです。",
+   "why": "ニュースの合間の 5 分に。左翼・右翼・リベラルの違いを、5分で整理できます"
   },
   {
    "id": "b16",
@@ -267,7 +328,11 @@
    "asin": "B0DHJCHR5F",
    "kindle_unlimited": true,
    "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b16.json",
-   "sample_percent": 8.9
+   "sample_percent": 8.9,
+   "author": "五分読光輝",
+   "publisher": "黒猫福家本舗",
+   "hook": "努力が苦手な人々よ、集まれ。",
+   "why": "ニュースの合間の 5 分に。努力が続かない人のための、無理をしない続け方です"
   },
   {
    "id": "b17",
@@ -281,7 +346,11 @@
    "asin": "B0DKB4VMJ4",
    "kindle_unlimited": true,
    "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b17.json",
-   "sample_percent": 8.8
+   "sample_percent": 8.8,
+   "author": "五分読光輝",
+   "publisher": "黒猫福家本舗",
+   "hook": "現代社会は、まるで高温サウナのように私たちを絶え間なく刺激し続けています。",
+   "why": "ニュースの合間の 5 分に。サウナの入り方と「整う」までの流れを知る5分です"
   },
   {
    "id": "b18",
@@ -295,7 +364,11 @@
    "asin": "B0DGGCBYBT",
    "kindle_unlimited": true,
    "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b18.json",
-   "sample_percent": 9.0
+   "sample_percent": 9.0,
+   "author": "五分読光輝",
+   "publisher": "黒猫福家本舗",
+   "hook": "「漫画原作者への道」を志す皆さま、本書を手に取っていただき、ありがとうございます。",
+   "why": "ニュースの合間の 5 分に。漫画の原作を書きたい人に、最初の一歩をお届けします"
   },
   {
    "id": "b19",
@@ -309,7 +382,11 @@
    "asin": "B0DG4RPPMF",
    "kindle_unlimited": true,
    "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b19.json",
-   "sample_percent": 8.9
+   "sample_percent": 8.9,
+   "author": "五分読光輝",
+   "publisher": "黒猫福家本舗",
+   "hook": "皆さん、こんにちは。",
+   "why": "ニュースの合間の 5 分に。自分に厳しすぎる人へ、自分をいたわる考え方です"
   },
   {
    "id": "b20",
@@ -323,7 +400,11 @@
    "asin": "B0DFLY3PSH",
    "kindle_unlimited": true,
    "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b20.json",
-   "sample_percent": 9.0
+   "sample_percent": 9.0,
+   "author": "五分読光輝",
+   "publisher": "黒猫福家本舗",
+   "hook": "デザイン思考とは、まるで探偵が事件を解決するように、ユーザーの心の奥底を探るスリリングな冒険です。",
+   "why": "ニュースの合間の 5 分に。使う人の立場から考えて、新しい案を形にする方法です"
   },
   {
    "id": "b21",
@@ -337,7 +418,11 @@
    "asin": "B0DFFQJLY8",
    "kindle_unlimited": true,
    "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b21.json",
-   "sample_percent": 8.9
+   "sample_percent": 8.9,
+   "author": "五分読光輝",
+   "publisher": "黒猫福家本舗",
+   "hook": "ようこそ、アンガーマネジメントの世界へ！",
+   "why": "ニュースの合間の 5 分に。怒りとの付き合い方を、すぐ使える形でまとめました"
   },
   {
    "id": "b22",
@@ -351,7 +436,11 @@
    "asin": "B0DGCRFCVS",
    "kindle_unlimited": true,
    "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b22.json",
-   "sample_percent": 9.0
+   "sample_percent": 9.0,
+   "author": "五分読光輝",
+   "publisher": "黒猫福家本舗",
+   "hook": "皆さん、こんにちは。",
+   "why": "ニュースの合間の 5 分に。持ち物と予定を減らして、暮らしを軽くするヒントです"
   },
   {
    "id": "b23",
@@ -365,7 +454,11 @@
    "asin": "B0DG93PDKB",
    "kindle_unlimited": true,
    "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b23.json",
-   "sample_percent": 8.8
+   "sample_percent": 8.8,
+   "author": "五分読光輝",
+   "publisher": "黒猫福家本舗",
+   "hook": "デジタル機器に囲まれた現代社会。",
+   "why": "ニュースの合間の 5 分に。スマホから少し離れて、頭を休める工夫をまとめました"
   },
   {
    "id": "b24",
@@ -379,7 +472,11 @@
    "asin": "B0DFCXHYV8",
    "kindle_unlimited": true,
    "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b24.json",
-   "sample_percent": 8.8
+   "sample_percent": 8.8,
+   "author": "五分読光輝",
+   "publisher": "黒猫福家本舗",
+   "hook": "ようこそ、時間管理の迷宮へ！",
+   "why": "ニュースの合間の 5 分に。同じ1日で、やりたいことに使える時間を増やす工夫です"
   },
   {
    "id": "b25",
@@ -393,7 +490,11 @@
    "asin": "B0DK6RFGW1",
    "kindle_unlimited": true,
    "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b25.json",
-   "sample_percent": 8.9
+   "sample_percent": 8.9,
+   "author": "五分読光輝",
+   "publisher": "黒猫福家本舗",
+   "hook": "音楽は、人間の魂を揺さぶる不思議な力を持っています。",
+   "why": "ニュースの合間の 5 分に。自分を励ます曲を作りたい人の、作曲の入り口です"
   },
   {
    "id": "b26",
@@ -407,7 +508,11 @@
    "asin": "B0DK55QXTY",
    "kindle_unlimited": true,
    "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b26.json",
-   "sample_percent": 8.9
+   "sample_percent": 8.9,
+   "author": "五分読光輝",
+   "publisher": "黒猫福家本舗",
+   "hook": "音楽は人間の魂を揺さぶる不思議な力を持っています。",
+   "why": "ニュースの合間の 5 分に。自分を励ます言葉を、歌詞にしていく手順です"
   },
   {
    "id": "b27",
@@ -422,7 +527,11 @@
    "asin": "B0DF6K5B49",
    "kindle_unlimited": true,
    "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b27.json",
-   "sample_percent": 8.6
+   "sample_percent": 8.6,
+   "author": "五分読光輝",
+   "publisher": "黒猫福家本舗",
+   "hook": "ようこそ、心の冒険へ！",
+   "why": "ニュースの合間の 5 分に。いまに意識を向ける練習を、5分から始められます"
   },
   {
    "id": "b28",
@@ -436,7 +545,11 @@
    "asin": "B0DSJL9WF2",
    "kindle_unlimited": true,
    "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b28.json",
-   "sample_percent": 8.7
+   "sample_percent": 8.7,
+   "author": "五分読光輝",
+   "publisher": "黒猫福家本舗",
+   "hook": "ダイエットと聞くと、巷には「○○するだけで痩せる」というキャッチーな文句が溢れています。",
+   "why": "ニュースの合間の 5 分に。体重の数字より、体の中身を見直す考え方です"
   },
   {
    "id": "b29",
@@ -450,7 +563,11 @@
    "asin": "B0DSC8477T",
    "kindle_unlimited": true,
    "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b29.json",
-   "sample_percent": 8.8
+   "sample_percent": 8.8,
+   "author": "五分読光輝",
+   "publisher": "黒猫福家本舗",
+   "hook": "イノベーションという言葉は、ビジネスの世界で頻繁に耳にするものの、その本質を理解し、実践することは容易ではありません。",
+   "why": "ニュースの合間の 5 分に。新しい発想を生むための、考え方のくせを身につけます"
   },
   {
    "id": "b30",
@@ -465,7 +582,11 @@
    "asin": "B0DS9FVRBC",
    "kindle_unlimited": true,
    "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b30.json",
-   "sample_percent": 8.9
+   "sample_percent": 8.9,
+   "author": "五分読光輝",
+   "publisher": "黒猫福家本舗",
+   "hook": "皆さん、こんにちは。",
+   "why": "ニュースの合間の 5 分に。一日の終わりに気持ちを切り替える、小さな習慣です"
   },
   {
    "id": "b31",
@@ -479,7 +600,11 @@
    "asin": "B0DS9FC7F9",
    "kindle_unlimited": true,
    "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b31.json",
-   "sample_percent": 9.0
+   "sample_percent": 9.0,
+   "author": "五分読光輝",
+   "publisher": "黒猫福家本舗",
+   "hook": "ビジネスの世界で成功を収めるには、優れたコミュニケーション能力が不可欠です。",
+   "why": "ニュースの合間の 5 分に。話の最初の一言で、相手の心をつかむこつです"
   },
   {
    "id": "b32",
@@ -494,7 +619,11 @@
    "asin": "B0DJTYD3C2",
    "kindle_unlimited": true,
    "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b32.json",
-   "sample_percent": 9.0
+   "sample_percent": 9.0,
+   "author": "五分読光輝",
+   "publisher": "黒猫福家本舗",
+   "hook": "現代社会は、まるで巨大な遊園地のジェットコースターのようです。",
+   "why": "ニュースの合間の 5 分に。5分の瞑想で、気持ちを整える毎日の手順です"
   },
   {
    "id": "b33",
@@ -508,7 +637,11 @@
    "asin": "B0DHR4RP1H",
    "kindle_unlimited": true,
    "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b33.json",
-   "sample_percent": 8.9
+   "sample_percent": 8.9,
+   "author": "五分読光輝",
+   "publisher": "黒猫福家本舗",
+   "hook": "人生という茨の道を歩む我々は、時に自らの足を引っ張る名人となる。",
+   "why": "ニュースの合間の 5 分に。心の中の言い訳に気づいて、行動に変える方法です"
   },
   {
    "id": "b34",
@@ -522,7 +655,11 @@
    "asin": "B0DH1SN81T",
    "kindle_unlimited": true,
    "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b34.json",
-   "sample_percent": 8.9
+   "sample_percent": 8.9,
+   "author": "五分読光輝",
+   "publisher": "黒猫福家本舗",
+   "hook": "『５分で読める自己啓発 - たばこをやめる方法』",
+   "why": "ニュースの合間の 5 分に。たばこをやめたい人に、やめ方の考え方をまとめました"
   },
   {
    "id": "b35",
@@ -536,7 +673,11 @@
    "asin": "B0DGWNXF9W",
    "kindle_unlimited": true,
    "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b35.json",
-   "sample_percent": 8.2
+   "sample_percent": 8.2,
+   "author": "五分読光輝",
+   "publisher": "黒猫福家本舗",
+   "hook": "声優の世界へ踏み出す第一歩を踏み出そうとしているあなた、勇気ある決断を称えます。",
+   "why": "ニュースの合間の 5 分に。声の仕事を目指す人に、デビューまでの道のりを"
   },
   {
    "id": "b36",
@@ -550,7 +691,11 @@
    "asin": "B0DGF81KZ7",
    "kindle_unlimited": true,
    "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b36.json",
-   "sample_percent": 8.9
+   "sample_percent": 8.9,
+   "author": "五分読光輝",
+   "publisher": "黒猫福家本舗",
+   "hook": "「フィナンシャルリテラシー」という言葉を聞いて、頭が痛くなる方もいらっしゃるでしょう。",
+   "why": "ニュースの合間の 5 分に。お金の基本を知って、暮らしの判断を落ち着いてできるように"
   },
   {
    "id": "b37",
@@ -564,7 +709,11 @@
    "asin": "B0DG4X35QP",
    "kindle_unlimited": true,
    "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b37.json",
-   "sample_percent": 8.9
+   "sample_percent": 8.9,
+   "author": "五分読光輝",
+   "publisher": "黒猫福家本舗",
+   "hook": "パーソナル・ブランディングと聞いて、あなたは何を思い浮かべるでしょうか？",
+   "why": "ニュースの合間の 5 分に。自分の強みを見つけて、伝え方を整える方法です"
   },
   {
    "id": "b38",
@@ -578,7 +727,11 @@
    "asin": "B0DFCS11MQ",
    "kindle_unlimited": true,
    "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b38.json",
-   "sample_percent": 8.9
+   "sample_percent": 8.9,
+   "author": "五分読光輝",
+   "publisher": "黒猫福家本舗",
+   "hook": "ようこそ、「ノー」と言う勇気の世界へ！",
+   "why": "ニュースの合間の 5 分に。断れずに抱え込む人へ、角を立てずに断るこつです"
   },
   {
    "id": "b39",
@@ -593,7 +746,11 @@
    "asin": "B0GV3MDWC7",
    "kindle_unlimited": true,
    "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b39.json",
-   "sample_percent": 9.0
+   "sample_percent": 9.0,
+   "author": "五分読光輝",
+   "publisher": "黒猫福家本舗",
+   "hook": "人生は、時として奇妙な拷問を仕掛けてくる。",
+   "why": "ニュースの合間の 5 分に。先延ばしをやめられない人に、5つの手なずけ方です"
   },
   {
    "id": "b40",
@@ -608,7 +765,11 @@
    "asin": "B0GTMRM839",
    "kindle_unlimited": true,
    "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b40.json",
-   "sample_percent": 9.0
+   "sample_percent": 9.0,
+   "author": "五分読光輝",
+   "publisher": "黒猫福家本舗",
+   "hook": "「もっと時間があれば」。",
+   "why": "ニュースの合間の 5 分に。時間の使い方を見える化して、1日を広く使う習慣です"
   },
   {
    "id": "b41",
@@ -622,7 +783,11 @@
    "asin": "B0GHZSMKVV",
    "kindle_unlimited": true,
    "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b41.json",
-   "sample_percent": 8.8
+   "sample_percent": 8.8,
+   "author": "五分読光輝",
+   "publisher": "黒猫福家本舗",
+   "hook": "人間というのは、つくづく業の深い生き物だ。",
+   "why": "ニュースの合間の 5 分に。人と比べて落ち込むとき、5分で気持ちを整える技術です"
   },
   {
    "id": "b42",
@@ -636,7 +801,11 @@
    "asin": "B0F1FP293M",
    "kindle_unlimited": true,
    "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b42.json",
-   "sample_percent": 8.9
+   "sample_percent": 8.9,
+   "author": "五分読光輝",
+   "publisher": "黒猫福家本舗",
+   "hook": "睡眠は私たちの生活の質を左右する重要な要素です。",
+   "why": "ニュースの合間の 5 分に。眠りの質を見直すための、暮らしの工夫をまとめました"
   },
   {
    "id": "b43",
@@ -650,7 +819,11 @@
    "asin": "B0DYYYXKD4",
    "kindle_unlimited": true,
    "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b43.json",
-   "sample_percent": 8.9
+   "sample_percent": 8.9,
+   "author": "五分読光輝",
+   "publisher": "黒猫福家本舗",
+   "hook": "思春期の娘を持つ母親の皆さま、こんにちは。",
+   "why": "ニュースの合間の 5 分に。思春期の娘との関わりに悩む母親に、向き合い方のヒントを"
   },
   {
    "id": "b44",
@@ -664,7 +837,11 @@
    "asin": "B0DWMTQT82",
    "kindle_unlimited": true,
    "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b44.json",
-   "sample_percent": 9.0
+   "sample_percent": 9.0,
+   "author": "五分読光輝",
+   "publisher": "黒猫福家本舗",
+   "hook": "炊飯器のスイッチを押すだけで、毎日のように食べているご飯。",
+   "why": "ニュースの合間の 5 分に。いつものご飯を、もう一段おいしく炊くこつです"
   },
   {
    "id": "b45",
@@ -678,7 +855,11 @@
    "asin": "B0DKCWRJP6",
    "kindle_unlimited": true,
    "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b45.json",
-   "sample_percent": 8.9
+   "sample_percent": 8.9,
+   "author": "五分読光輝",
+   "publisher": "黒猫福家本舗",
+   "hook": "美容に時間もお金もかけられない。",
+   "why": "ニュースの合間の 5 分に。毎日5分でできる、きれいを保つ習慣です"
   },
   {
    "id": "b46",
@@ -692,7 +873,11 @@
    "asin": "B0DJJDF85Q",
    "kindle_unlimited": true,
    "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b46.json",
-   "sample_percent": 8.9
+   "sample_percent": 8.9,
+   "author": "五分読光輝",
+   "publisher": "黒猫福家本舗",
+   "hook": "人見知りという名の迷宮に迷い込んだ勇者よ、ようこそ。",
+   "why": "ニュースの合間の 5 分に。人見知りでも、最初の一言を出しやすくする工夫です"
   },
   {
    "id": "b47",
@@ -706,7 +891,11 @@
    "asin": "B0DHFR1BPM",
    "kindle_unlimited": true,
    "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b47.json",
-   "sample_percent": 8.9
+   "sample_percent": 8.9,
+   "author": "五分読光輝",
+   "publisher": "黒猫福家本舗",
+   "hook": "人生は、時として不条理な会話の連続です。",
+   "why": "ニュースの合間の 5 分に。話し上手より聞き上手。雑談をらくにするこつです"
   },
   {
    "id": "b48",
@@ -720,7 +909,11 @@
    "asin": "B0DH8GXLDQ",
    "kindle_unlimited": true,
    "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b48.json",
-   "sample_percent": 8.8
+   "sample_percent": 8.8,
+   "author": "五分読光輝",
+   "publisher": "黒猫福家本舗",
+   "hook": "皆様、ようこそ「世界から見た日本の政治の評価」の世界へ。",
+   "why": "ニュースの合間の 5 分に。日本の政治が海外からどう見えているかを、整理して知れます"
   },
   {
    "id": "b49",
@@ -734,7 +927,11 @@
    "asin": "B0DH666KPK",
    "kindle_unlimited": true,
    "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b49.json",
-   "sample_percent": 8.9
+   "sample_percent": 8.9,
+   "author": "五分読光輝",
+   "publisher": "黒猫福家本舗",
+   "hook": "人生は短い。",
+   "why": "ニュースの合間の 5 分に。自己啓発とは何かを、肩の力を抜いて知る5分です"
   },
   {
    "id": "b50",
@@ -748,7 +945,11 @@
    "asin": "B0DH53TCQ2",
    "kindle_unlimited": true,
    "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b50.json",
-   "sample_percent": 8.9
+   "sample_percent": 8.9,
+   "author": "五分読光輝",
+   "publisher": "黒猫福家本舗",
+   "hook": "詐欺師たちよ、おめでとう。",
+   "why": "ニュースの合間の 5 分に。だましの手口を知って、自分と家族を守る知恵です"
   },
   {
    "id": "b51",
@@ -762,7 +963,11 @@
    "asin": "B0DH1VTWV7",
    "kindle_unlimited": true,
    "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b51.json",
-   "sample_percent": 8.8
+   "sample_percent": 8.8,
+   "author": "五分読光輝",
+   "publisher": "黒猫福家本舗",
+   "hook": "結婚という甘美な檻に自ら進んで入る人々が減少の一途を辿る日本。",
+   "why": "ニュースの合間の 5 分に。未婚化という社会の変化を、データと視点で考えます"
   },
   {
    "id": "b52",
@@ -776,7 +981,11 @@
    "asin": "B0DGWS5PDB",
    "kindle_unlimited": true,
    "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b52.json",
-   "sample_percent": 8.9
+   "sample_percent": 8.9,
+   "author": "五分読光輝",
+   "publisher": "黒猫福家本舗",
+   "hook": "５分で読める自己啓発 - 成功する転職活動",
+   "why": "ニュースの合間の 5 分に。転職を考えたときに、準備で外せない点をまとめました"
   },
   {
    "id": "b53",
@@ -790,7 +999,40 @@
    "asin": "B0CW1GBN5P",
    "kindle_unlimited": true,
    "sample": "https://kuroneko-fukuya-honpo.github.io/aura/books/b53.json",
-   "sample_percent": 8.9
+   "sample_percent": 8.9,
+   "author": "五分読光輝",
+   "publisher": "黒猫福家本舗",
+   "hook": "拝啓、心の迷宮を彷徨う勇者たちよ。",
+   "why": "ニュースの合間の 5 分に。心の調子と付き合う基本を、わかりやすく整理しました"
   }
- ]
+ ],
+ "texts": {
+  "label": "PR 黒猫福家本舗",
+  "shelf": "黒猫福家本舗の本棚",
+  "kind": "5分で読める本",
+  "author_line": "五分読光輝 著｜黒猫福家本舗",
+  "why_button": "なぜ表示？",
+  "why_what": "AURA を作っている黒猫福家本舗の本の案内です。",
+  "why_now": "今週の 1 冊として、使っている方みなさんに同じ本を出しています。",
+  "why_reason_head": "おすすめの理由",
+  "hide_title": "出さないようにする",
+  "hide_options": [
+   "この本を出さない",
+   "今週は出さない",
+   "本の案内をすべて出さない"
+  ],
+  "hide_note": "設定からいつでも戻せます",
+  "first_notice_free": "AURA を作っている黒猫福家本舗は、本も出しています。5 分で読める本を、ときどきここに置きます。いらなければ × で消えます。",
+  "plus_popup_title": "黒猫福家本舗の書籍のお知らせ",
+  "plus_popup_body": "AURA を作っている黒猫福家本舗は、本も出しています。5 分で読める本の試し読みを、ときどき記事の一覧に出してもよいですか？ あとから設定で変えられます。",
+  "plus_popup_yes": "いる",
+  "plus_popup_no": "いらない",
+  "sample_end": "ここまでが試し読み（全体の約 {percent}%）",
+  "kindle_line": "続きは Kindle で。Kindle+ 会員なら追加料金なし",
+  "kindle_sub": "会員でなくても購入できます",
+  "kindle_button": "Kindle で続きを読む",
+  "shelf_end": "黒猫福家本舗の本棚には、5 分で読める本が 53 冊あります",
+  "settings_label": "黒猫福家本舗の本のお知らせ",
+  "blurb_head": "この本について"
+ }
 }
