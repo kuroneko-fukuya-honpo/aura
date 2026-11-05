@@ -29,10 +29,11 @@ const config = {
   // 英語の頁は /aura/en/…（AU-110 回 5）。訳の無い頁は日本語のまま出る
   i18n: {
     defaultLocale: 'ja',
-    locales: ['ja', 'en'],
+    locales: ['ja', 'en', 'es'],
     localeConfigs: {
       ja: { label: '日本語', htmlLang: 'ja' },
       en: { label: 'English', htmlLang: 'en-US' },
+      es: { label: 'Español', htmlLang: 'es-419' },
     },
   },
 
@@ -103,7 +104,7 @@ const config = {
     ({
       // リンクカード（og:image / twitter:image）の既定。黒猫福家本舗の枠に AURA。頁ごとの差し替えは frontmatter の image
       // 英語の頁は英語の文字の画像（AU-121・News that finds you.）
-    image: process.env.DOCUSAURUS_CURRENT_LOCALE === 'en' ? 'img/og-aura-en.jpg' : 'img/og-aura.jpg',
+    image: ['en', 'es'].includes(process.env.DOCUSAURUS_CURRENT_LOCALE) ? 'img/og-aura-en.jpg' : 'img/og-aura.jpg',
       colorMode: {
         defaultMode: 'light',
         respectPrefersColorScheme: true,

@@ -8,6 +8,7 @@ module.exports = `(function () {
   try {
     var BASE = '/aura/', EN = '/aura/en/';
     var path = location.pathname;
+    if (path === '/aura/es' || path.indexOf('/aura/es/') === 0) return;
     var onEn = path === '/aura/en' || path.indexOf(EN) === 0;
     if (/bot|crawl|spider|slurp|bingpreview|facebookexternalhit|embedly|quora|pinterest|vkshare|w3c_validator|lighthouse|headless|preview/i.test(navigator.userAgent || '')) return;
     var q = new URLSearchParams(location.search);
